@@ -1,0 +1,901 @@
+,Rank,Name,Park,Location,Year_Build,Supplier,Scores,Award_Year,Material
+0,23,Wicked Cyclone,Six Flags New England,"Agawam, Mass.",2015,Rocky Mountain,251,2015,Steel
+1,1,Bouder Dash,Lake Compounce,"Bristol, Conn.",2000,CCI,1333,2013,Wood
+2,22,Giant Dipper,Santa Cruz Beach Boardwalk,"Santa Cruz, Calif.",1924,Prior & Church/Looff,146,2013,Wood
+3,49,Expedition Everest,Disney’s Animal Kingdom,"Orlando, Fla.",2006,Vekoma,61,2017,Steel
+4,45,Kingda Ka,Six Flags Great Adventure,"Jackson, N.J.",2005,Intamin,76,2014,Steel
+5,20,Mind Bender,Six Flags Over Georgia,"Austell, Ga.",1978,Schwarzkopf,249,2014,Steel
+6,3,Nitro,Six Flags Great Adventure,"Jackson, N.J.",2001,B & M,650,2012,Steel
+7,37,Medusa Steel Coaster,Six Flags Mexico,"Mexico City, Mexico",2014,RMC,98,2017,Steel
+8,47,Steel Eel,SeaWorld San Antonio,"San Antonio, Texas",1999,Morgan,43,2010,Steel
+9,3,Nitro,Six Flags Great Adventure,"Jackson, N.J.",2001,B & M,864,2011,Steel
+10,49 (tie),Volcano: The Blast Coaster,Kings Dominion,"Doswell, Va.",1998,Intamin,70,2014,Steel
+11,32,Comet,The Great Escape,"Lake George, N.Y.",1994,PTC/Schmeck,157,2017,Wood
+12,10,Thunderhead,Dollywood,"Pigeon Forge, Tenn.",2004,Great Coasters Int.,477,2018,Wood
+13,48,Great American Scream Machine,Six Flags Over Georgia,"Austell, Ga.",1973,PTC – Allen,52,2012,Wood
+14,34,Grand National,Blackpool Pleasure Beach,"Blackpool, England",1935,Paige,140,2015,Wood
+15,32,Superman Ride of Steel,Six Flags America,"Largo, Md.",2000,Intamin,107,2010,Steel
+16,34,Tatsu,Six Flags Magic Mountain,"Valencia, Calif.",2006,B&M,115,2014,Steel
+17,40 (tie),Goliath,Six Flags Magic Mountain,"Valencia, Calif.",2000,Giovanola,97,2011,Steel
+18,45 (tie),Manta,SeaWorld Orlando,"Orlando, Fla.",2009,B & M,84,2011,Steel
+19,34,Boardwalk Bullet,Kemah Boardwalk,"Kemah, Texas",2007,M&V/Gravity Group,94,2013,Wood
+20,27,Terminator Salvation: The Ride,Six Flags Magic Mountain,"Valencia, Calif.",2009,GCII,122,2010,Wood
+21,35 (tie),Blue Streak,Conneaut Lake Park,"Conneaut Lake, Pa.",1938,Vettel,133,2015,Wood
+22,32,Comet,The Great Escape,"Lake George, N.Y.",1994,PTC/Schmeck,164,2018,Wood
+23,37,Thunderbird,PowerPark,"Alaharma, Finland",2006,GCII,57,2010,Wood
+24,42 (tie),Renegade,Valleyfair!,"Shakopee, Minn.",2007,GCII,39,2010,Wood
+25,49,Viper,Six Flags Great America,"Gurnee, Ill.",1995,Starkey/Six Flags,69,2014,Wood
+26,11,Nemesis,Alton Towers,"Staffordshire, England",1994,B&M,311,2016,Steel
+27,46,Wooden Warrior,Quassy Amusement Park,"Middlebury, Conn.",2011,Gravity Group,81,2016,Wood
+28,9,Maverick,Cedar Point,"Sandusky, Ohio",2007,Intamin,390,2018,Steel
+29,9,Gold Striker,California’s Great America,"Santa Clara, Calif.",2013,Great Coasters Int.,525,2016,Wood
+30,13,Intimidator 305,Kings Dominion,"Doswell, Va.",2010,Intamin,330,2017,Steel
+31,45,Euro-Mir,Europa-Park,"Rust, Germany",1997,Mack,47,2010,Steel
+32,24 (tie),Raptor,Cedar Point,"Sandusky, Ohio",1994,B & M,129,2010,Steel
+33,34,Black Mamba,Phantasialand,"Brühl, Germany",2006,B&M,137,2018,Steel
+34,12,Lightning Racer,Hersheypark,"Hershey, Pa.",2000,Great Coasters Int.,276,2017,Wood
+35,21,Thunderbolt,Kennywood,"West Mifflin, Pa.",1968,Vettel/Miller,206,2016,Wood
+36,30 – tie,Rampage,Alabama Splash Adventure,"Bessemer, Ala.",1998,Custom Coasters,165,2018,Wood
+37,6,The Beast,Kings Island,"Mason, Ohio",1979,KECO,740,2015,Wood
+38,19,Colossos,Heide Park,"Soltau, Germany",2001,Intamin,169,2012,Wood
+39,35,Incredible Hulk Coaster,Universal’s Islands of Adventure,"Orlando, Fla.",1999,B & M,116,2011,Steel
+40,41,Twister,Knoebels Amusement Resort,"Elysburg, Pa.",1999,Fetterman/Knoebels,98,2015,Wood
+41,2,Bizarro,Six Flags New England,"Agawam, Mass.",2000,Intamin,1201,2011,Steel
+42,8,Magnum XL-200,Cedar Point,"Sandusky, Ohio",1989,Arrow,480,2012,Steel
+43,15,Shivering Timbers,Michigan’s Adventure,"Muskegon, Mich.",1998,Custom Coasters,264,2014,Wood
+44,47,Georgia Cyclone,Six Flags Over Georgia,"Atlanta, Ga.",1990,Dinn-Summers,33,2010,Wood
+45,29 (tie),Volcano: The Blast Coaster,Kings Dominion,"Doswell, Va.",1998,Intamin,148,2011,Steel
+46,15,Leviathan,Canada’s Wonderland,"Vaughan, Ontario, Canada",2012,B & M,298,2013,Steel
+47,18-tie,Troy,Toverland,"Sevenum, Netherlands",2007,Great Coasters Int.,219,2017,Wood
+48,5,Nitro,Six Flags Great Adventure,"Jackson, N.J.",2001,B&M,454,2016,Steel
+49,47,Expedition Everest,Disney’s Animal Kingdom,"Orlando, Fla.",2006,Vekoma,89,2015,Steel
+50,47,Rattler,Six Flags Fiesta Texas,"San Antonio, Texas",1992,Pierce,65,2011,Wood
+51,9,New Texas Giant,Six Flags Over Texas,"Arlington, Texas",2011,RMC,379,2017,Steel
+52,42,SheiKra,Busch Gardens Tampa,"Tampa, Fla.",2005,B&M,105,2015,Steel
+53,3,Steel Vengeance,Cedar Point,"Sandusky, Ohio",2018,Rocky Mountain,829,2018,Steel
+54,3,Boulder Dash,Lake Compounce,"Bristol, Conn.",2000,Custom Coasters,1171,2017,Wood
+55,18,Jack Rabbit,Kennywood,"West Mifflin, Pa.",1920,PTC – Miller,192,2013,Wood
+56,13,GhostRider,Knott’s Berry Farm,"Buena Park, Calif.",1998,Custom Coasters,307,2018,Wood
+57,38,Quimera,La Feria,"Mexico City, Mexico",2007,Schwarzkopf,93,2017,Steel
+58,26,Renegade,Valleyfair,"Shakopee, Minn.",2007,Great Coasters Int.,182,2018,Wood
+59,16,Banshee,Kings Island,"Mason, Ohio",2014,B&M,317,2014,Steel
+60,36,T Express,Everland,"Yongin-si, South Korea",2008,Intamin,67,2010,Wood
+61,39,Twister,Knoebels Amusement Resort,"Elysburg, Pa.",1999,Fetterman-Knoebels,80,2013,Wood
+62,44,GhostRider,Knott’s Berry Farm,"Buena Park, Calif.",1998,Custom Coasters,94,2014,Wood
+63,6,Apollo’s Chariot,Busch Gardens Williamsburg,"Williamsburg, Va.",1999,B&M,397,2016,Steel
+64,1,Millennium Force,Cedar Point,"Sandusky, Ohio",2000,Intamin,1540,2011,Steel
+65,42 (tie),Titan,Six Flags Over Texas,"Arlington, Texas",2001,Giovanola,76,2013,Steel
+66,24,Skyrush,Hersheypark,"Hershey, Pa.",2012,Intamin,235,2017,Steel
+67,19,Jack Rabbit,Kennywood,"West Mifflin, Pa.",1920,PTC/Miller,204,2014,Wood
+68,29,Cyclone,Luna Park/Coney Island,"Brooklyn, N.Y.",1927,Keenan/Baker,169,2018,Wood
+69,43,Boardwalk Bullet,Kemah Boardwalk,"Kemah, Texas",2007,M&V/Gravity Group,88,2015,Wood
+70,23,Jack Rabbit,Kennywood,"West Mifflin, Pa.",1920,PTC – Miller,195,2011,Wood
+71,35 (tie),Kingda Ka,Six Flags Great Adventure,"Jackson, N.J.",2005,Intamin,92,2013,Steel
+72,20,Mind Bender,Six Flags Over Georgia,"Austell, Ga.",1978,Schwarzkopf,195,2012,Steel
+73,7,Nitro,Six Flags Great Adventure,"Jackson, N.J.",2001,B&M,442,2017,Steel
+74,39,Volcano: The Blast Coaster,Kings Dominion,"Doswell, Va.",1998,Intamin,85,2013,Steel
+75,45,Twister,Gröna Lund,"Stockholm, Sweden",2011,Gravity Group,84,2016,Wood
+76,17,Colossos,Heide Park,"Soltau, Germany",2001,Intamin,207,2013,Wood
+77,48 (tie),Tonnerre de Zeus,Parc Asterix,"Plailly, France",1997,Custom Coasters,70,2015,Wood
+78,28,Giant Dipper,Santa Cruz Beach Boardwalk,"Santa Cruz, Calif.",1924,Prior & Church/Looff,147,2011,Wood
+79,26,Alpengeist,Busch Gardens Williamsburg,"Williamsburg, Va.",1997,B&M,207,2015,Steel
+80,46,Space Mountain,Disneyland,"Anaheim, Calif.",1977,WED Imagineering,46,2010,Steel
+81,3,Superman The Ride,Six Flags New England,"Agawam, Mass.",2000,Intamin,705,2017,Steel
+82,34,Viper,Six Flags Great America,"Gurnee, Ill.",1995,Starkey/Six Flags,74,2010,Wood
+83,26,Twisted Colossus,Six Flags Magic Mountain,"Valencia, Calif.",2015,RMC,175,2016,Steel
+84,11,The Raven,Holiday World,"Santa Claus, Ind.",1995,CCI,296,2013,Wood
+85,28,Boss,Six Flags St. Louis,"Eureka, Mo.",2000,Custom Coasters,183,2017,Wood
+86,6,Leviathan,Canada’s Wonderland,"Vaughan, Ont., Canada",2012,B&M,500,2014,Steel
+87,5,Thunderhead,Dollywood,"Pigeon Forge, Tenn.",2004,GCII,923,2013,Wood
+88,6,Apollo’s Chariot,Busch Gardens Williamsburg,"Williamsburg, Va.",1999,B&M,597,2015,Steel
+89,37,Playland Wooden Coaster,Playland at the PNE,"Vancouver, B.C., Canada",1959,Phare,103,2014,Wood
+90,20,Griffon,Busch Gardens Williamsburg,"Williamsburg, Va.",2007,B & M,190,2011,Steel
+91,2,Bizarro,Six Flags New England,"Agawam, Mass.",2000,Intamin,946,2012,Steel
+92,26 (tie),Griffon,Busch Gardens Williamsburg,"Williamsburg, Va.",2007,B & M,124,2012,Steel
+93,29,Superman Ride of Steel,Six Flags America,"Largo, Md.",2000,Intamin,115,2012,Steel
+94,33,Griffon,Busch Gardens Williamsburg,"Williamsburg, Va.",2007,B&M,136,2015,Steel
+95,3,Phoenix,Knoebels Amusement Resort,"Elysburg, Pa.",1985,Dinn/PTC-Schmeck,1091,2012,Wood
+96,42,Euro-Mir,Europa-Park,"Rust, Germany",1997,Mack,81,2014,Steel
+97,46,Megafobia,Oakwood,"Pembrookshire, Wales",1996,Custom Coasters,84,2018,Wood
+98,25,American Thunder,Six Flags St. Louis,"Eureka, Mo.",2008,GCII,127,2013,Wood
+99,14,Blue Fire,Europa-Park,"Rust, Germany",2006,Mack,283,2016,Steel
+100,37,Tonnerre de Zeus,Park Astérix,"Plailly, France",1997,CCII,87,2012,Wood
+101,5,Thunderhead,Dollywood,"Pigeon Forge, Tenn.",2004,Great Coasters Int.,837,2014,Wood
+102,7,Thunderhead,Dollywood,"Pigeon Forge, Tenn.",2004,Great Coasters Int.,641,2016,Wood
+103,25,Tremors,Silverwood,"Athol, Idaho",1999,CCI,128,2010,Wood
+104,2,El Toro,Six Flags Great Adventure,"Jackson, N.J.",2006,Intamin,1302,2013,Wood
+105,10,Prowler,Worlds of Fun,"Kansas City, Mo.",2009,GCII,452,2011,Wood
+106,32,Wooden Warrior,Quassy Amusement Park,"Middlebury, Conn.",2011,Gravity Group,100,2012,Wood
+107,48 (tie),Big Dipper,Blackpool Pleasure Beach,"Blackpool, England",1923,PTC/Miller,70,2015,Wood
+108,15,Behemoth,Canada’s Wonderland,"Vaughan, Ontario, Canada",2008,B & M,278,2011,Steel
+109,6,Leviathan,Canada’s Wonderland,"Vaughan, Ontario, Canada",2012,B&M,481,2017,Steel
+110,8,The Beast,Kings Island,"Mason, Ohio",1979,KECO,614,2014,Wood
+111,49,Wild Mouse,"Pleasure Beach, Blackpool","Blackpool, England",1958,Wright,50,2012,Wood
+112,29,Shock Wave,Six Flags Over Texas,"Arlington, Texas",1978,Schwarzkopf,103,2013,Steel
+113,26,Wild Mouse,Blackpool Pleasure Beach,"Blackpool, England",1958,"Wright, Blackpool",185,2015,Wood
+114,4,Voyage,Holiday World,"Santa Claus, Ind.",2006,Gravity Group,1113,2017,Wood
+115,44,The Pepsi Max Big One,Pleasure Beach Blackpool,"Blackpool, England",1994,Arrow,49,2010,Steel
+116,42,Lisebergbanan,Liseberg,"Gothemburg, Sweden",1987,Schwarzkopf,96,2018,Steel
+117,29,Banshee,Kings Island,"Mason, Ohio",2014,B&M,175,2018,Steel
+118,15,Thunderbolt,Kennywood,"West Mifflin, Pa.",1968,Vettel/Miller,260,2018,Wood
+119,47,Raptor,Cedar Point,"Sandusky, Ohio",1994,B&M,80,2016,Steel
+120,34,Colossos,Heide Park,"Soltau, Germany",2001,Intamin,129,2017,Wood
+121,35 (tie),Blue Streak,Cedar Point,"Sandusky, Ohio",1964,PTC/Hoover,104,2014,Wood
+122,16,X2,Six Flags Magic Mountain,"Valencia, Calif.",2002,Arrow,276,2011,Steel
+123,11,Lightning Rod,Dollywood,"Pigeon Forge, Tenn.",2016,Rocky Mountain,336,2016,Wood
+124,4,Boulder Dash,Lake Compounce,"Bristol, Conn.",2000,CCI,874,2010,Wood
+125,9,Outlaw Run,Silver Dollar City,"Branson, Mo.",2013,Rocky Mountain,541,2017,Wood
+126,13,Balder,Liseberg,"Gothenburg, Sweden",2003,Intamin,377,2011,Wood
+127,20,Goliath,Six Flags Over Georgia,"Austell, Ga.",2006,B&M,255,2016,Steel
+128,24,GhostRider,Knott’s Berry Farm,"Buena Park, Calif.",1998,CCI,133,2010,Wood
+129,48,Bizarro,Six Flags Great Adventure,"Jackson, N.J.",1999,B&M,74,2016,Steel
+130,43,Space Mountain,Disneyland,"Anaheim, Calif.",1977,WED Imagineering,87,2011,Steel
+131,6,Ravine Flyer II,Waldameer,"Erie, Pa.",2008,Gravity Group,719,2014,Wood
+132,7,Gold Striker,California’s Great America,"Santa Clara, Calif.",2013,Great Coasters Int.,619,2014,Wood
+133,35 (tie),Afterburn,Carowinds,"Charlotte, N.C.",1999,B & M,92,2013,Steel
+134,47,Blue Streak,Cedar Point,"Sandusky, Ohio",1964,PTC-Hoover,34,2010,Wood
+135,12,Lightning Racer,Hersheypark,"Hershey, Pa.",2000,Great Coasters Int.,329,2018,Wood
+136,29,Cornball Express,Indiana Beach,"Monticello, Ind.",2001,CCI,113,2010,Wood
+137,49 (tie),California Screamin’,Disney California Adventure,"Anaheim, Calif.",2001,Intamin,70,2014,Steel
+138,11,Balder,Liseberg,"Gothenburg, Sweden",2003,Intamin,391,2015,Wood
+139,21,Helix,Liseberg,"Gothenburg, Sweden",2014,Mack,234,2018,Steel
+140,26,Mind Bender,Six Flags Over Georgia,"Austell, Ga.",1978,Schwarzkopf,209,2017,Steel
+141,15,Thunderbolt,Kennywood,"West Mifflin, Pa",1927,Vettel/Miller,265,2015,Wood
+142,17,Mako,SeaWorld Orlando,"Orlando, Fla.",2016,B&M,251,2018,Steel
+143,46,PowderKeg,Silver Dollar City,"Branson, Mo.",2005,S & S,58,2012,Steel
+144,37,Steel Force,Dorney Park,"Allentown, Pa.",1997,Morgan,105,2016,Steel
+145,19,Hellcat,Timber Falls,"Wisconsin Dells, Wis.",2004,S&S,147,2010,Wood
+146,11,Diamondback,Kings Island,"Mason, Ohio",2009,B&M,440,2015,Steel
+147,5,Phantom’s Revenge,Kennywood,"West Mifflin, Pa.",2001,B & M,756,2011,Steel
+148,10,Top Thrill Dragster,Cedar Point,"Sandusky, Ohio",2003,Intamin,312,2010,Steel
+149,24,Raging Bull,Six Flags Great America,"Gurnee, Ill.",1999,B & M,180,2011,Steel
+150,48,Griffon,Busch Gardens Williamsburg,"Williamsburg, Va.",2007,B&M,62,2017,Steel
+151,25,Mind Bender,Six Flags Over Georgia,"Austell, Ga.",1978,Schwarzkopf,211,2018,Steel
+152,8,Outlaw Run,Silver Dollar City,"Branson, Mo.",2013,Rocky Mountain,611,2016,Wood
+153,32,Piraten,Djurs Sommerand,"Jylland, Denmark",2008,Intamin,130,2011,Steel
+154,3,Nitro,Six Flags Great Adventure,"Jackson, N.J.",2001,B & M,773,2010,Steel
+155,9,Phantom’s Revenge,Kennywood,"West Mifflin, Pa.",2001,Morgan/Arrow,392,2010,Steel
+156,16,Top Thrill Dragster,Cedar Point,"Sandusky, Ohio",2003,Intamin,278,2018,Steel
+157,44,Bizarro,Six Flags Great Adventure,"Jackson, N.J.",1999,B&M,96,2015,Steel
+158,7,Ravine Flyer II,Waldameer,"Erie, Pa.",2008,Gravity Group,612,2017,Wood
+159,32,GateKeeper,Cedar Point,"Sandusky, Ohio",2013,B&M,117,2014,Steel
+160,40,Tonnerre de Zeus,Parc Asterix,"Plailly, France",1997,CCI,46,2010,Wood
+161,24,Wild Eagle,Dollywood,"Pigeon Forge, Tenn.",2012,B & M,148,2013,Steel
+162,1,The Voyage,Holiday World,"Santa Claus, Ind.",2006,Gravity Group,1154,2010,Wood
+163,29,Black Mamba,Phantasialand,"Brühl, Germany",2006,B&M,183,2015,Steel
+164,43,Griffon,Busch Gardens Williamsburg,"Williamsburg, Va.",2007,B&M,93,2018,Steel
+165,28,Rampage,Alabama’s Splash Adventure,"Bessemer, Ala.",1998,Custom Coasters,167,2015,Wood
+166,38,Thunderbird,PowerLand,"Alahärmä, Finland",2006,GCII,83,2013,Wood
+167,18,Blue Fire,Europa-Park,"Rust, Germany",2006,Mack,272,2017,Steel
+168,47,Dominator,Kings Dominion,"Doswell, Va.",2008,B & M,63,2013,Steel
+169,44,Flying Turns,Knoebels Amusement Resort,"Elysburg, Pa.",2013,Knoebels,84,2017,Wood
+170,42,Racer,Kennywood,"West Mifflin, Pa.",1927,PTC/Miller,96,2014,Wood
+171,13,Cyclone,Coney Island,"Brooklyn, N.Y.",1927,Keenan/Baker,242,2010,Wood
+172,1,Millennium Force,Cedar Point,"Sandusky, Ohio",2000,Intamin,1272,2012,Steel
+173,34,Flying Turns,Knoebels Amusement Resort,"Elysburg, Pa.",2013,Knoebels,148,2018,Wood
+174,14,Thunderbolt,Kennywood,"West Mifflin, Pa.",1968,Vettel/Miller,214,2010,Wood
+175,7,Intimidator,Carowinds,"Charlotte, N.C.",2010,B & M,520,2012,Steel
+176,12,The Raven,Holiday World,"Santa Claus, Ind.",1995,Custom Coasters,286,2015,Wood
+177,48 (tie),Kraken,SeaWorld Orlando,"Orlando, Fla.",2000,B & M,60,2013,Steel
+178,43,Ride of Steel,Darien Lake,"Darien Center, N.Y.",1999,Intamin,74,2012,Steel
+179,44,Sky Rocket,Kennywood,"West Mifflin, Pa.",2010,Premier Rides,85,2011,Steel
+180,8,Leviathan,Canada’s Wonderland,"Vaughan, Ontario, Canada",2012,B&M,410,2018,Steel
+181,50,Mamba,Worlds of Fun,"Kansas City, Mo.",1998,Morgan,73,2011,Steel
+182,12,Goliath,Six Flags Over Georgia,"Austell, Ga.",2006,B&M,427,2015,Steel
+183,11,Lightning Racer,Hersheypark,"Hershey, Pa.",2000,Great Coasters Int.,342,2014,Wood
+184,34,El Toro,Freizeitpark Plohn,"Lengenfeld, Germany",2009,GCII,97,2012,Wood
+185,37,Blue Streak,Conneaut Lake Park,"Conneaut Lake, Pa.",1938,Vettel/NAD,118,2018,Wood
+186,32,Cannibal,Lagoon,"Farmington, Utah",2015,Lagoon,163,2017,Steel
+187,45,Wooden Warrior,Quassy Amusement Park,"Middlebury, Conn.",2011,Gravity Group,82,2017,Wood
+188,47,Hellcat,Timber Falls,"Wisconsin Dells, Wis.",2004,S&S,78,2014,Wood
+189,41,Goliath,La Ronde,"Montreal, Quebec, Canada",2006,B&M,97,2018,Steel
+190,35,Dragon Challenge,Universal’s Islands of Adventure,"Orlando, Fla.",1999,B & M,98,2012,Steel
+191,3,Expedition GeForce,Holiday Park,"Hassloch, Germany",2001,Intamin,598,2013,Steel
+192,18,Colossos,Heide Park,"Soltau, Germany",2001,Intamin,157,2010,Wood
+193,4,Boulder Dash,Lake Compounce,"Bristol, Conn.",2000,CCI,1267,2011,Wood
+194,18,Nemesis,Alton Towers,"Staffordshire, England",1994,B & M,181,2010,Steel
+195,21,Maverick,Cedar Point,"Sandusky, Ohio",2007,Intamin,187,2011,Steel
+196,24,Twisted Colossus,Six Flags Magic Mountain,"Valencia, Calif.",2015,Rocky Mountain,212,2018,Steel
+197,46,Piraten,Djurs Sommerland,"Jylland, Denmark",2008,Intamin,74,2014,Steel
+198,14,Balder,Liseberg,"Gothenburg, Sweden",2003,Intamin,289,2018,Wood
+199,18,Raptor,Cedar Point,"Sandusky, Ohio",1994,B & M,212,2011,Steel
+200,15,The Raven,Holiday World,"Santa Claus, Ind.",1995,Custom Coasters,245,2016,Wood
+201,38,Blue Streak,Cedar Point,"Sandusky, Ohio",1964,PTC – Hoover,85,2012,Wood
+202,17,Comet,The Great Escape,"Lake George, N.Y.",1994,PTC-Schmeck,158,2010,Wood
+203,23,X2,Six Flags Magic Mountain,"Valencia, Calif.",2002,Arrow,202,2016,Steel
+204,45,Steel Force,Dorney Park,"Allentown, Pa.",1998,Morgan,92,2015,Steel
+205,50,Twister,Gröna Lund,"Stockholm, Sweden",2011,Gravity Group,66,2017,Wood
+206,10,Shivering Timbers,Michigan’s Adventure,"Muskegon, Mich.",1998,CCI,304,2013,Wood
+207,43,Racer,Kennywood,"West Mifflin, Pa.",1927,Miller,86,2011,Wood
+208,4,Nitro,Six Flags Great Adventure,"Jackson, N.J.",2001,B & M,596,2013,Steel
+209,46,Olympia Looping,Weiner Prater,"Vienna, Austria",1989,Schwarzkopf,81,2016,Steel
+210,30,Goliath,La Ronde,"Montreal, Quebec, Canada",2006,B & M,120,2010,Steel
+211,21 (tie),Jack Rabbit,Kennywood,"West Mifflin, Pa.",1920,PTC/Miller,211,2015,Wood
+212,21,Maverick,Cedar Point,"Sandusky, Ohio",2007,Intamin,189,2012,Steel
+213,49 (tie),Kingda Ka,Six Flags Great Adventure,"Jackson, N.J.",2005,Intamin,83,2015,Steel
+214,42,The Boss,Six Flags St. Louis,"Eureka, Mo.",2000,CCI,93,2011,Wood
+215,31,Giant Dipper,Santa Cruz Beach Boardwalk,"Santa Cruz, Calif.",1924,Prior & Church/Looff,167,2017,Wood
+216,20 (tie),Banshee,Kings Island,"Mason, Ohio",2014,B&M,275,2015,Steel
+217,5,Lightning Rod,Dollywood,"Pigeon Forge, Tenn.",2016,Rocky Mountain,710,2017,Wood
+218,23,Magnum XL-200,Cedar Point,"Sandusky, Ohio",1989,Arrow,238,2017,Steel
+219,12,Prowler,Worlds of Fun,"Kansas City, Mo.",2009,Great Coasters Int.,302,2014,Wood
+220,36,Wild Eagle,Dollywood,"Pigeon Forge, Tenn.",2012,B&M,107,2016,Steel
+221,32,Cornball Express,Indiana Beach,"Monticello, Ind.",2001,CCI,100,2013,Wood
+222,40,Whizzer,Six Flags Great America,"Gurnee, Ill.",1976,Schwarzkopf,80,2013,Steel
+223,22,Cyclone,Luna Park/Coney Island,"Brooklyn, N.Y.",1927,Kenan/Baker,177,2014,Wood
+224,26,Jack Rabbit,Kennywood,"West Mifflin, Pa.",1920,PTC/Miller,188,2017,Wood
+225,36,Verbolten,Busch Gardens Williamsburg,"Williamsburg, Va.",2012,Zierer,116,2018,Steel
+226,2,Phoenix,Knoebels Amusement Resort,"Elysburg, Pa.",1985,Dinn-PTC/Schmeck,1212,2017,Wood
+227,2,El Toro,Six Flags Great Adventure,"Jackson,N.J.",2006,Intamin,1291,2014,Wood
+228,28,Storm Chaser,Kentucky Kingdom,"Louisville, Ky.",2016,RMC,166,2016,Steel
+229,7,The Beast,Kings Island,"Kings Mills, Ohio",1979,KECO,591,2011,Wood
+230,17,Giant Dipper,Santa Cruz Beach Boardwalk,"Santa Cruz, Calif.",1924,Prior & Church/Looff,233,2016,Wood
+231,33,Switchback,ZDT’s,"Seguin, Texas",2015,Gravity Group,139,2017,Wood
+232,26,Viper,Six Flags Great America,"Gurnee, Ill.",1995,Starkey/Six Flags,116,2012,Wood
+233,3,Expedition GeForce,Holiday Park,"Hassloch, Germany",2001,Intamin,764,2014,Steel
+234,4,Goliath,Six Flags Over Georgia,"Austell, Ga.",2006,B & M,794,2011,Steel
+235,32,Blue Fire,Europa-Park,"Rust, Germany",2009,Mack,109,2012,Steel
+236,48,Cheetah Hunt,Busch Gardens Tampa Bay,"Tampa, Fla.",2011,Intamin,71,2014,Steel
+237,3,Expedition GeForce,Holiday Park,"Hassloch, Germany",2001,Intamin,714,2015,Steel
+238,39,Hurricane,Boomers,"Dania Beach, Fla.",2000,Coaster Works,48,2010,Wood
+239,5,Goliath,Six Flags Over Georgia,"Atlanta, Ga.",2006,B & M,560,2010,Steel
+240,38,Twisted Timbers,Kings Dominion,"Doswell, Va.",2018,Rocky Mountain,109,2018,Steel
+241,38,Lisebergbanan,Liseberg,"Gothenburg, Sweden",1987,Schwarz,99,2016,Steel
+242,1,The Voyage,Holiday World,"Santa Claus, Ind.",2006,Gravity Group,1631,2011,Wood
+243,11,Diamondback,Kings Island,"Kings Mills, Ohio",2009,B & M,493,2011,Steel
+244,20,Kentucky Rumbler,Beech Bend,"Bowling Green, Ky.",2006,Great Coasters Int.,203,2014,Wood
+245,45 (tie),Olympia Looping,R. Barth and Sohn,Germany,1989,Schwarzkopf/BHS,84,2011,Steel
+246,1,El Toro,Six Flags Great Adventure,"Jackson, N.J.",2006,Intamin,1279,2012,Wood
+247,5,Nitro,Six Flags Great Adventure,"Jackson, N.J.",2001,B&M,563,2014,Steel
+248,1,Phoenix,Knoebels Amusement Resort,"Elysburg, Pa.",1985,PTC/Schmeck-Dinn,1330,2018,Wood
+249,40,Grizzly,Kings Dominion,"Doswell, Va.",1982,Summers-KECO,115,2018,Wood
+250,16,Nemesis,Alton Towers,"Staffordshire, England",1994,B & M,238,2012,Steel
+251,31,Tremors,Silverwood,"Athol, Idaho",1999,CCI,134,2011,Wood
+252,24,Tremors,Silverwood,"Athol, Idaho",1999,CCI,132,2013,Wood
+253,19 (tie),The Legend,Holiday World,"Santa Claus, Ind.",2000,CCI,166,2013,Wood
+254,8,The Raven,Holiday World,"Santa Claus, Ind.",1995,CCI,385,2012,Wood
+255,12,The Raven,Holiday World,"Santa Claus, Ind.",1995,CCI,405,2011,Wood
+256,12,Prowler,Worlds of Fun,"Kansas City, Mo.",2009,GCII,386,2010,Wood
+257,32,Rampage,Alabama Adventure,"Bessemer, Ala.",1998,CCI,127,2011,Wood
+258,28,Troy,Toverland,"Sevenum, Netherlands",2007,GCII,115,2013,Wood
+259,42,Blue Streak,Cedar Point,"Sandusky, Ohio",1964,PTC/Hoover,87,2017,Wood
+260,5,Ravine Flyer II,Waldameer,"Erie, Pa.",2008,Gravity Group,692,2016,Wood
+261,7,Ravine Flyer II,Waldameer,"Erie, Pa.",2008,Gravity Group,722,2015,Wood
+262,33,Griffon,Busch Gardens Williamsburg,"Williamsburg, Va.",2007,B&M,116,2014,Steel
+263,39,T Express,Everland,"Yongin-si, South Korea",2008,Intamin,101,2011,Wood
+264,20,Jack Rabbit,Kennywood,"West Mifflin, Pa.",1920,Miller,211,2018,Wood
+265,31,Raging Bull,Six Flags Great America,"Gurnee, Ill.",1999,B & M,100,2013,Steel
+266,25,Titan,Six Flags Over Texas,"Arlington, Texas",2001,Giovanola,178,2011,Steel
+267,40,Tremors,Silverwood,"Athol, Idaho",1999,Custom Coasters,115,2016,Wood
+268,44,Whizzer,Six Flags Great America,"Gurnee, Ill.",1976,Schwarzkopf,77,2014,Steel
+269,17,Wildfire,Kolmården,"Norrköping, Sweden",2016,Rocky Mountain,232,2018,Wood
+270,16,Raging Bull,Six Flags Great America,"Gurnee, Ill.",1999,B & M,199,2010,Steel
+271,23,Goliath,Six Flags Great America,"Gurnee, Ill.",2014,Rocky Mountain,166,2014,Wood
+272,29,Helix,Liseberg,"Gothenburg, Sweden",2014,Mack,165,2016,Steel
+273,7,Goliath,Six Flags Over Georgia,"Austell, Ga.",2006,B & M,494,2013,Steel
+274,14-tie,Goliath,Six Flags Over Georgia,"Austell, Ga.",2006,B&M,291,2017,Steel
+275,9,Outlaw Run,Silver Dollar City,"Branson, Mo.",2013,Rocky Mountain,605,2014,Wood
+276,40 (tie),Superman Ride of Steel,Six Flags America,"Largo, Md.",2000,Intamin,97,2011,Steel
+277,5,Superman: The Ride,Six Flags New England,"Agawam, Mass.",2000,Intamin,535,2018,Steel
+278,20 (tie),Twister,Knoebels Amusement Resort,"Elysburg, Pa.",1999,Fetterman-Knoebels,212,2011,Wood
+279,38 (tie),White Lightning,Fun Spot America,"Orlando, Fla.",2013,Great Coasters Int.,101,2014,Wood
+280,9,Goliath,Six Flags Over Georgia,"Austell, Ga.",2006,B & M,444,2012,Steel
+281,20,Nemesis,Alton Towers,"Staffordshire, England",1994,B&M,238,2018,Steel
+282,2,El Toro,Six Flags Great Adventure,"Jackson, N.J.",2006,Intamin,1197,2018,Wood
+283,8,Intimidator,Carowinds,"Charlotte, N.C.",2010,B&M,350,2016,Steel
+284,1,Boulder Dash,Lake Compounce,"Bristol, Conn.",2000,Custom Coasters,1216,2016,Wood
+285,44,Timber Terror,Silverwood,"Athol, Idaho",1996,CCI,38,2010,Wood
+286,21,Wodan Timbur Coaster,Europa-Park,"Rust, Germany",2012,Great Coasters Int.,200,2014,Wood
+287,38,Kingda Ka,Six Flags Great Adventure,"Jackson, N.J.",2005,Intamin,91,2012,Steel
+288,17,Sky Rocket,Kennywood,"West Mifflin, Pa.",2010,Premier Rides,198,2010,Steel
+289,36,Wooden Warrior,Quassy Amusement Park,"Middlebury, Conn.",2011,Gravity Group,88,2013,Wood
+290,42 (tie),Aska,Nara Dreamland,"Nara, Japan",1998,Intamin,39,2010,Wood
+291,19,Top Thrill Dragster,Cedar Point,"Sandusky, Ohio",2003,Intamin,258,2016,Steel
+292,18,X2,Six Flags Magic Mountain,"Valencia, Calif.",2002,Arrow,292,2014,Steel
+293,28,Dragon Challenge,Universal’s Islands of Adventure,"Orlando, Fla.",1999,B & M,149,2011,Steel
+294,19,Raging Bull,Six Flags Great America,"Gurnee, Ill.",1999,B & M,196,2012,Steel
+295,14,Phantom’s Revenge,Kennywood,"West Mifflin, Pa.",2001,Morgan,405,2015,Steel
+296,16,X2,Six Flags Magic Mountain,"Valencia, Calif.",2002,Arrow,290,2013,Steel
+297,15,Wild Eagle,Dollywood,"Pigeon Forge, Tenn.",2012,B & M,292,2012,Steel
+298,2,Bizarro,Six Flags New England,"Agawam, Mass.",2000,Intamin,929,2015,Steel
+299,34,Tremors,Silverwood,"Athol, Idaho",1999,Custom Coasters,105,2014,Wood
+300,47,Twister,Knoebels Amusement Resort,"Elysburg, Pa.",1999,Fetterman/Knoebels,78,2016,Wood
+301,36,Wild Mouse,Blackpool Pleasure Beach,"Blackpool, England",1958,"Wright, Blackpool",112,2017,Wood
+302,46 (tie),HellCat,Timber Falls,"Wisconsin Dells, Wis.",2004,S & S,62,2013,Wood
+303,35,Black Mamba,Phantasialand,"Brühl, Germany",2006,B&M,109,2017,Steel
+304,5,Beast,Kings Island,"Mason, Ohio",1979,KECO,781,2018,Wood
+305,2,Phoenix,Knoebels Amusement Resort,"Elysburg, Pa.",1985,Dinn-PTC/Schmeck,1144,2016,Wood
+306,48 (tie),Revenge of the Mummy,Universal Studios,"Orlando, Fla.",2004,Premier Rides,42,2010,Steel
+307,40,Twister,Knoebels Amusement Resort,"Elysburg, Pa.",1999,Fetterman/Knoebels,100,2014,Wood
+308,14,Montu,Busch Gardens Tampa Bay,"Tampa, Fla.",1996,B & M,318,2012,Steel
+309,49,Apocalypse,Six Flags Magic Mountain,"Valencia, Calif.",2009,GCII,59,2013,Wood
+310,21,Taron,Phantasialand,"Brühl, Germany",2016,Intamin,253,2017,Steel
+311,24,Alpengeist,Busch Gardens Williamsburg,"Williamsburg, Va.",1997,B & M,133,2012,Steel
+312,11,Mystic Timbers,Kings Island,"Mason, Ohio",2017,Great Coasters Int.,465,2018,Wood
+313,14,Boardwalk Bullet,Kemah Boardwalk,Kemah Boardwalk,2007,M&V/Gravity Group,236,2017,Wood
+314,43,Racer,Kennywood,"West Mifflin, Pa.",1927,PTC/Miller,94,2016,Wood
+315,40,Shock Wave,Six Flags Over Texas,"Arlington, Texas",1978,Schwarzkopf,90,2014,Steel
+316,46,Gwazi,Busch Gardens Tampa,"Tampa Bay, Fla.",1999,GCII,35,2010,Wood
+317,19,Cú Chulainn,Tayto Park,"Ashbourne, Ireland",2015,Gravity Group,228,2015,Wood
+318,2,El Toro,Six Flags Great Adventure,"Jackson, N.J.",2006,Intamin,991,2010,Wood
+319,17,Intimidator 305,Kings Dominion,"Doswell, Va.",2010,Intamin,268,2016,Steel
+320,11,Lightning Racer,Hersheypark,"Hershey, Pa.",2000,GCII,444,2011,Wood
+321,29,Playland Wooden Coaster,PNE Playland,"Vancouver, B.C., Canada",1958,Phare,107,2012,Wood
+322,17,Thunderbolt,Kennywood,"West Mifflin, Pa.",1968,Vettel/Miller,220,2017,Wood
+323,4,Apollo’s Chariot,Busch Gardens Williamsburg,"Williamsburg, Va.",1999,B & M,573,2010,Steel
+324,9,Diamondback,Kings Island,"Mason, Ohio",2009,B&M,330,2016,Steel
+325,40 (tie),Euro-Mir,Europa-Park,"Rust, Germany",1997,Mack,94,2016,Steel
+326,46,Whizzer,Six Flags Great America,"Gurnee, Ill.",1976,Schwarzkopf,90,2015,Steel
+327,20,Jack Rabbit,Kennywood,"West Mifflin, Pa.",1920,PTC/Miller,208,2016,Wood
+328,38 (tie),Lightning Run,Kentucky Kingdom,"Louisville, Ky.",2014,Chance,108,2015,Steel
+329,45,Euro-Mir,Europa-Park,"Rust, Germany",1997,Mack,72,2017,Steel
+330,14,Diamondback,Kings Island,"Mason, Ohio",2009,B & M,301,2013,Steel
+331,49 (tie),GateKeeper,Cedar Point,"Sandusky, Ohio",2013,B&M,72,2016,Steel
+332,15,Behemoth,Canada’s Wonderland,"Vaughan, Ont., Canada",2008,B&M,318,2014,Steel
+333,6,New Texas Giant,Six Flags Over Texas,"Arlington, Texas",2011,Rocky Mountain,743,2011,Steel
+334,44,Steel Force,Dorney Park,"Allentown, Pa.",1997,Morgan,76,2017,Steel
+335,19 (tie),Cyclone,Luna Park (Coney Island),"Brooklyn, N.Y.",1927,Keenan/Baker,166,2013,Wood
+336,35 (tie),Boardwalk Bullet,Kemah Boardwalk,"Kemah, Texas",2007,M&V/Gravity Group,104,2014,Wood
+337,23,Colossos,Heide Park,"Soltau, Germany",2001,Intamin,207,2015,Wood
+338,32,SheiKra,Busch Gardens Tampa Bay,"Tampa, Fla.",2005,B & M,98,2013,Steel
+339,9,Magnum XL-200,Cedar Point,"Sandusky, Ohio",1989,Arrow,416,2013,Steel
+340,21,Kentucky Rumbler,Beech Bend,"Bowling Green, Ky.",2006,GCII,160,2013,Wood
+341,30 – tie,Prowler,Worlds of Fun,"Kansas City, Mo.",2009,Great Coasters Int.,165,2018,Wood
+342,45,Grizzly,Kings Dominion,"Doswell, Va.",1982,KECO-Summers,36,2010,Wood
+343,18-tie,GhostRider,Knott’s Berry Farm,"Buena Vista, Calif.",1998,Custom Coasters,219,2017,Wood
+344,21,Blue Fire,Europa-Park,"Rust, Germany",2009,Mack,192,2013,Steel
+345,9,Goliath,Six Flags Over Georgia,"Austell, Ga.",2006,B&M,422,2014,Steel
+346,50,Tatsu,Six Flags Magic Mountain,"Valencia, Calif.",2006,B & M,58,2013,Steel
+347,21 (tie),Intimidator,Carowinds,"Charlotte, N.C.",2010,B & M,152,2010,Steel
+348,36,Kumba,Busch Gardens Tampa Bay,"Tampa, Fla.",1993,B&M,110,2014,Steel
+349,20 (tie),X2,Six Flags Magic Mountain,"Valencia, Calif.",2002,Arrow,275,2015,Steel
+350,42 (tie),Kumba,Busch Gardens Tampa,"Tampa, Fla.",1993,B&M,92,2016,Steel
+351,23,Goliath,La Ronde,"Montreal, Quebec, Canada",2006,B & M,156,2013,Steel
+352,7 (tie),Apollo’s Chariot,Busch Gardens Williamsburg,"Williamsburg, Va.",1999,B&M,643,2011,Steel
+353,15,Magnum XL-200,Cedar Point,"Sandusky, Ohio",1989,Arrow,279,2016,Steel
+354,27,Cú Chulainn,Tayto Park,"Ashbourne, Ireland",2015,Gravity Group,177,2018,Wood
+355,36,Switchback,ZDTs,"Seguin, Texas",2015,Gravity Group,130,2018,Wood
+356,16,Troy,Toverland,"Sevenum, Netherlands",2007,Great Coasters Int.,260,2014,Wood
+357,23,Legend,Holiday World,"Santa Claus, Ind.",2000,Custom Coasters,201,2018,Wood
+358,34,Raging Bull,Six Flags Great America,"Gurnee, Ill.",1999,B&M,113,2017,Steel
+359,11,Phantom’s Revenge,Kennywood,"West Mifflin, Pa.",2001,Morgan/Arrow,374,2012,Steel
+360,31,American Thunder,Six Flags St. Louis,"Eureka, Mo.",2008,GCII,104,2012,Wood
+361,4,Phoenix,Knoebels Amusement Resort,"Elysburg, Pa.",1985,Dinn – PTC/Schmeck,1036,2014,Wood
+362,49,Giant Dipper,Belmont Park,"San Diego, Calif.",1925,Prior & Church,31,2010,Wood
+363,12,Montu,Busch Gardens Tampa Bay,"Tampa Bay, Fla.",1996,B & M,288,2010,Steel
+364,3,Phoenix,Knoebels Amusement Resort,"Elysburg, Pa.",1985,Dinn/PTC-Schmeck,952,2010,Wood
+365,34,Blue Fire,Europa-Park,"Rust, Germany",2009,Mack,123,2011,Steel
+366,33,Megafobia,Oakwood Leisure Park,"Pembrokeshire, Wales",1996,Custom Coasters,108,2014,Wood
+367,48,The Boss,Six Flags St. Louis,"Eureka, Mo.",2000,Custom Coasters,70,2014,Wood
+368,24,Legend,Holiday World,"Santa Claus, Ind.",2000,Custom Coasters,198,2017,Wood
+369,44,Lightning Run,Kentucky Kingdom,"Louisville, Ky.",2014,Chance,90,2016,Steel
+370,25,Grand National,"Pleasure Beach, Blackpool","Blackpool, England",1935,Paige,173,2011,Wood
+371,19,Intimidator,Carowinds,"Charlotte, N.C.",2010,B & M,207,2011,Steel
+372,10,Intimidator,Carowinds,"Charlotte, N.C.",2010,B&M,387,2014,Steel
+373,21,Tremors,Silverwood,"Athol, Idaho",1999,CCI,149,2012,Wood
+374,36,Hades 360,Mt. Olympus Theme Park,"Wisconsin Dells, Wis.",1995,Gravity Group,118,2016,Wood
+375,19,Comet,The Great Escape,"Lake George, N.Y.",1994,PTC-Schmeck,215,2011,Wood
+376,45 (tie),Zippin Pippin,Bay Beach,"Green Bay, Wis.",2011,M&V,78,2015,Wood
+377,45,T Express,Everland,"Yonjin-si, South Korea",2008,Intamin,87,2018,Wood
+378,1,Millennium Force,Cedar Point,"Sandusky, Ohio",2000,Intamin,1175,2010,Steel
+379,7,Diamondback,Kings Island,"Kings Mills, Ohio",2009,B & M,484,2010,Steel
+380,23,Kumba,Busch Gardens Tampa Bay,"Tampa, Fla.",1993,B & M,141,2012,Steel
+381,22,Maverick,Cedar Point,"Sandusky, Ohio",2007,Intamin,183,2013,Steel
+382,18,Montu,Busch Gardens Tampa Bay,"Tampa, Fla.",1996,B & M,257,2013,Steel
+383,23,El Toro,Freizeitpark Plohn,"Lengenfeld, Germany",2009,GCII,138,2013,Wood
+384,8,Magnum XL-200,Cedar Point,"Sandusky, Ohio",1989,Arrow,427,2010,Steel
+385,35,Thunderbird,PowerLand,"Alahärmä, Finland",2006,GCII,93,2012,Wood
+386,44,Blue Streak,Conneaut Lake Park,"Conneaut Lake, Pa.",1938,Vettel,65,2012,Wood
+387,35,Lisebergbanan,Liseberg,"Gothenburg, Sweden",1987,Schwarzkopf,114,2015,Steel
+388,50,Boardwalk Bullet,Kemah Boardwalk,"Kemah, Texas",2007,M&V/The Gravity Group,73,2016,Wood
+389,36,Goliath,La Ronde,"Montreal, Quebec, Canada",2006,B&M,110,2015,Steel
+390,6,Beast,Kings Island,"Mason, Ohio",1979,KECO,666,2017,Wood
+391,42,The Boss,Six Flags St. Louis,"Eureka, Mo.",2000,Custom Coasters,91,2015,Wood
+392,44,Cannibal,Lagoon,"Farmington, Utah",2015,Lagoon,92,2018,Steel
+393,42 (tie),The Boss,Six Flags St. Louis,"Eureka, Mo.",2000,CCI,73,2012,Wood
+394,49,Blue Streak,Cedar Point,"Sandusky, Ohio",1964,PTC-Hoover,60,2011,Wood
+395,39,Tatsu,Six Flags Magic Mountain,"Valencia, Calif.",2006,B & M,98,2011,Steel
+396,50,Euro-Mir,Europa-Park,"Rust, Germany",1997,Mack,49,2012,Steel
+397,20,Comet,The Great Escape,"Lake George, N.Y.",1994,PTC – Schmeck,161,2012,Wood
+398,27,GhostRider,Knott’s Berry Farm,"Buena Park, Calif.",1998,CCI,151,2011,Wood
+399,43,Boss,Six Flags St. Louis,"Eureka, Mo.",2000,Custom Coasters,106,2018,Wood
+400,32,Wild Mouse,Blackpool Pleasure Beach,"Blackpool, England",1958,"Wright, Blackpool",132,2016,Wood
+401,25,Goliath,La Ronde,"Montreal, Quebec, Canada",2006,B & M,132,2012,Steel
+402,12,Top Thrill Dragster,Cedar Point,"Sandusky, Ohio",2003,Intamin,356,2013,Steel
+403,25,Shivering Timbers,Michigan’s Adventure,"Muskegon, Mich.",1998,Custom Coasters,197,2017,Wood
+404,27,Megafobia,Oakwood,"Pembrokshire, Wales",1996,CCI,115,2012,Wood
+405,16,Intimidator 305,Kings Dominion,"Doswell, Va.",2010,Intamin,315,2015,Steel
+406,17,Behemoth,Canada’s Wonderland,"Vaughan, Ontario, Canada",2008,B & M,224,2012,Steel
+407,38,Hades 360,Mt. Olympus Theme Park,"Wisconsin Dells, Wis.",1995,Gravity Group,107,2017,Wood
+408,24,White Lightning,Fun Spot,"Orlando, Fla.",2013,Great Coasters Int.,196,2018,Wood
+409,10,Lightning Racer,Hersheypark,"Hershey, Pa.",2000,Great Coasters Int.,421,2015,Wood
+410,37,Zippin Pippin,Bay Beach Amusement Park,"Green Bay, Wis.",2011,M&V,84,2013,Wood
+411,4,Expedition GeForce,Holiday Park,"Hassloch, Germany",2001,Intamin,613,2016,Steel
+412,36,Titan,Six Flags Over Texas,"Arlington, Texas",2001,Giovanola,94,2012,Steel
+413,24,Comet,The Great Escape,"Lake George, N.Y.",1994,PTC/Schmeck,198,2015,Wood
+414,12,Nemesis,Alton Towers,"Staffordshire, England",1994,B & M,470,2011,Steel
+415,1,Fury 325,Carowinds,"Charlotte, N.C.",2015,B&M,1126,2016,Steel
+416,42,Titan,Six Flags Over Texas,"Arlington, Texas",2001,Giovanola,62,2010,Steel
+417,22,Banshee,Kings Island,"Mason, Ohio",2014,B&M,244,2017,Steel
+418,16,Jack Rabbit,Kennywood,"West Mifflin, Pa.",1920,PTC – Miller,197,2012,Wood
+419,50,Racer,Kennywood,"West Mifflin, Pa.",1927,PTC/Miller,69,2015,Wood
+420,46 (tie),T Express,Everland,"Yonjin-si, South Korea",2008,Intamin,55,2012,Wood
+421,27,Behemoth,Canada’s Wonderland,"Vaughan, Ontario, Canada",2008,B&M,187,2018,Steel
+422,20,Nemesis,Alton Towers,"Staffordshire, England",1994,B & M,210,2013,Steel
+423,41,Goliath,Six Flags Magic Mountain,"Valencia, Calif.",2000,Giovanola,78,2012,Steel
+424,37,Shock Wave,Six Flags Over Texas,"Arlington, Texas",1978,Schwarzkopf,85,2010,Steel
+425,21 – tie,Giant Dipper,Santa Cruz Beach Boardwalk,"Santa Cruz, Calif.",1924,Prior & Church/Looff,206,2018,Wood
+426,10,Balder,Liseberg,"Gothenburg, Sweden",2003,Intamin,364,2012,Wood
+427,44 (tie),Zippin Pippin,Bay Beach Amusement Park,"Green Bay, Wis.",2011,M&V/Gravity Group,74,2011,Wood
+428,30,Playland Wooden Coaster,Playland at the PNE,"Vancouver, B.C., Canada",1959,Phare,157,2015,Wood
+429,19,Intimidator,Carowinds,"Charlotte, N.C.",2010,B&M,261,2017,Steel
+430,43,Wild Mouse,Blackpool Pleasure Beach,"Blackpool, England",1958,Wright/Blackpool,95,2014,Wood
+431,22,Montu,Busch Gardens Tampa Bay,"Tampa, Fla.",1996,B&M,229,2014,Steel
+432,49 (tie),Expedition Everest,Disney’s Animal Kingdom,"Orlando, Fla.",2006,Vekoma,72,2016,Steel
+433,28 (tie),Maverick,Cedar Point,"Sandusky, Ohio",2007,Intamin,138,2014,Steel
+434,38 (tie),Apocalypse,Six Flags Magic Mountain,"Valencia, Calif.",2009,Great Coasters Int.,101,2014,Wood
+435,32,Tremors,Silverwood,"Athol, Idaho",1999,Custom Coasters,152,2015,Wood
+436,24,Troy,Toverland,"Sevenum, Netherlands",2007,Great Coasters Int.,174,2016,Wood
+437,26,Ride of Steel,Darien Lake,"Darien Center, N.Y.",1999,Intamin,127,2010,Steel
+438,14,Magnum XL-200,Cedar Point,"Sandusky, Ohio",1989,Arrow,300,2018,Steel
+439,48,Kentucky Rumbler,Beech Bend,"Bowling Green, Ky.",2006,Great Coasters Int.,77,2016,Wood
+440,13,Goliath,Six Flags Great America,"Gurnee, Ill.",2014,Rocky Mountain,269,2017,Wood
+441,33,American Thunder,Six Flags St. Louis,"Eureka, Mo.",2009,Great Coasters Int.,129,2016,Wood
+442,34,Playland Wooden Coaster,Playland at the PNE,"Vancouver, B.C. Canada",1958,Phare,118,2011,Wood
+443,13,Balder,Liseberg,"Gothenburg, Sweden",2003,Intamin,278,2013,Wood
+444,3,Phoenix,Knoebels Amusement Resort,"Elysburg, Pa.",1985,Dinn/PTC-Schmeck,1088,2013,Wood
+445,6,New Texas Giant,Six Flags Over Texas,"Arlington, Texas",2011,Rocky Mountain,512,2013,Steel
+446,18-tie,White Lightning,Fun Spot America,"Orlando, Fla.",2013,Great Coasters Int.,219,2017,Wood
+447,33,Twister,Knoebels Amusement Resort,"Elysburg, Pa.",1999,Fetterman-Knoebels,99,2012,Wood
+448,37,Powder Keg,Silver Dollar City,"Branson, Mo.",2005,S & S,102,2011,Steel
+449,41,Flying Turns,Knoebels Amusement Resort,"Elysburg, Pa.",2013,Knoebels,110,2016,Wood
+450,35,Rutschebanan,Tivoli Gardens,"Copenhagen, Denmark",1914,L.A. Thompson,135,2018,Wood
+451,31,Kumba,Busch Gardens Tampa Bay,"Tampa, Fla.",1993,B & M,144,2011,Steel
+452,38 (tie),Kumba,Busch Gardens Tampa,"Tampa, Fla.",1993,B&M,108,2015,Steel
+453,22,Kentucky Rumbler,Beech Bend,"Bowling Green, Ky.",2006,GCII,147,2012,Wood
+454,38,Blue Streak,Conneaut Lake Park,"Conneaut Lake, Pa.",1938,Vettel,116,2016,Wood
+455,30,Alpengeist,Busch Gardens Williamsburg,"Williamsburg, Va.",1997,B&M,144,2016,Steel
+456,34,Helix,Liseberg,"Gothenburg, Sweden",2014,Mack,127,2015,Steel
+457,46 (tie),Twister,Gröna Lund,"Stockholm, Sweden",2011,Gravity Group,62,2013,Wood
+458,8,Diamondback,Kings Island,"Mason, Ohio",2009,B&M,381,2017,Steel
+459,15,Thunderbolt,Kennywood,"West Mifflin, Pa.",1968,Vettel/Miller,228,2012,Wood
+460,23,New Texas Giant,Six Flags Over Texas,"Arlington, Texas",2011,Rocky Mountain,222,2018,Steel
+461,28,Montu,Busch Gardens Tampa,"Tampa, Fla.",1996,B&M,186,2018,Steel
+462,3,The Voyage,Holiday World,"Santa Claus, Ind.",2006,Gravity Group,1129,2014,Wood
+463,47,T Express,Everland,"Yongin-si, South Korea",2008,Intamin,74,2015,Wood
+464,30,Megafobia,Oakwood Leisure Park,"Pembrokshire, Wales",1996,CCI,87,2010,Wood
+465,13,Goliath,Six Flags Great America,"Gurnee, Ill.",2014,Rocky Mountain,267,2016,Wood
+466,49,Black Mamba,Phantasialand,"Brühl, Germany",2006,B & M,50,2012,Steel
+467,3,Phoenix,Knoebels Amusement Resort,"Elysburg, Pa.",1985,Dinn – PTC/Schmeck,1301,2015,Wood
+468,7,Outlaw Run,Silver Dollar City,"Branson, Mo.",2013,Rocky Mountain,599,2013,Wood
+469,39,Full Throttle,Six Flags Magic Mountain,"Valencia, Calif.",2013,Premier,95,2014,Steel
+470,30,SheiKra,Busch Gardens Tampa Bay,"Tampa, Fla.",2005,B & M,113,2012,Steel
+471,4,The Voyage,Holiday World,"Santa Claus, Ind.",2006,Gravity Group,1086,2013,Wood
+472,31,Goliath,La Ronde,"Montreal, Quebec, Canada",2006,B&M,128,2016,Steel
+473,12,Balder,Liseberg,"Gothenburg, Sweden",2003,Intamin,292,2016,Wood
+474,13,Top Thrill Dragster,Cedar Point,"Sandusky, Ohio",2003,Intamin,332,2012,Steel
+475,39,American Thunder,Six Flags St. Louis,"Eureka, Mo.",2009,Great Coasters Int.,123,2015,Wood
+476,19 (tie),Griffon,Busch Gardens Williamsburg,"Williamsburg, Va.",2007,B & M,172,2010,Steel
+477,10,Balder,Liseberg,"Gothenburg, Sweden",2003,Intamin,393,2014,Wood
+478,29,GhostRider,Knott’s Berry Farm,"Buena Vista, Calif.",1998,Custom Coasters,141,2016,Wood
+479,6,Ravine Flyer II,Waldameer,"Erie, Pa.",2008,Gravity Group,969,2011,Wood
+480,14,Thunderbolt,Kennywood,"West Mifflin, Pa.",1968,Vettel/Miller,270,2014,Wood
+481,15,Cyclone,Coney Island/Luna Park,"Brooklyn, N.Y.",1927,Keenan/Baker,264,2011,Wood
+482,16,Wodan,Europa-Park,"Rust, Germany",2012,Great Coasters Int.,236,2018,Wood
+483,4,Apollo’s Chariot,Busch Gardens Williamsburg,"Williamsburg, Va.",1999,B & M,597,2012,Steel
+484,41,Goliath,Six Flags Magic Mountain,"Valencia, Calif.",2000,Giovanola,78,2013,Steel
+485,17,Giant Dipper,Santa Cruz Beach Boardwalk,"Santa Cruz, Calif.",1924,Prior & Church/Looff,238,2014,Wood
+486,28,Wildfire,Kolmården,"Norrköping, Sweden",2016,Rocky Mountain,153,2016,Wood
+487,30,Helix,Liseberg,"Gothenburg, Sweden",2014,Mack,134,2014,Steel
+488,11,Nitro,Six Flags Great Adventure,"Jackson, N.J.",2001,B&M,345,2018,Steel
+489,35,Megafobia,Oakwood Leisure Park,"Pembrokeshire, Wales",1996,Custom Coasters,122,2016,Wood
+490,47,Hades 360,Mount Olympus,"Wisconsin Dells, Wis.",2005,Gravity Group,80,2018,Wood
+491,36 (tie),Apocalypse,Six Flags Magic Mountain,"Valencia, Calif.",2009,GCII,110,2011,Wood
+492,37,Rampage,Alabama Splash Adventure,"Bessemer, Ala.",1998,Custom Coasters,117,2016,Wood
+493,6,Ravine Flyer II,Waldameer,"Erie, Pa.",2008,Gravity Group,712,2013,Wood
+494,31,The Boss,Six Flags St. Louis,"Eureka, Mo.",2000,CCI,86,2010,Wood
+495,50,Whizzer,Six Flags Great America,"Gurnee, Ill.",1976,Schwarzkopf,70,2018,Steel
+496,37,El Toro,Freizeitpark Plohn,"Lengenfeld, Germany",2009,Great Coasters Int.,132,2015,Wood
+497,42,Blue Streak,Cedar Point,"Sandusky, Ohio",1964,PTC/Hoover,103,2016,Wood
+498,27,Kumba,Busch Gardens Tampa Bay,"Tampa, Fla.",1993,B & M,134,2013,Steel
+499,35,Volcano,Kings Dominion,"Doswell, Va.",1998,Intamin,88,2010,Steel
+500,6,The Beast,Kings Island,"Mason, Ohio",1979,KECO,670,2016,Wood
+501,32 (tie),Raging Bull,Six Flags Great America,"Gurnee, Ill.",1999,B&M,122,2016,Steel
+502,13,Behemoth,Canada’s Wonderland,"Vaughn, Ontario, Canada",2008,B & M,236,2010,Steel
+503,24,Montu,Busch Gardens Tampa,"Tampa, Fla.",1996,B&M,238,2015,Steel
+504,32,Alpengeist,Busch Gardens Williamsburg,"Williamsburg, Va.",1997,B&M,160,2018,Steel
+505,41-tie,Goliath,La Ronde,"Montreal, Quebec, Canada",2006,B&M,78,2017,Steel
+506,2,El Toro,Six Flags Great Adventure,"Jackson,N.J.",2006,Intamin,1464,2015,Wood
+507,6,Lightning Rod,Dollywood,"Pigeon Forge, Tenn.",2016,Rocky Mountain,691,2018,Wood
+508,25,X2,Six Flags Magic Mountain,"Valencia, Calif.",2002,Arrow,217,2017,Steel
+509,26,Hades 360,Mount Olympus,"Wisconsin Dells, Wis.",2005,Gravity Group,143,2014,Wood
+510,41-tie,Lightning Run,Kentucky Kingdom,"Louisville, Ky.",2014,Chance,78,2017,Steel
+511,42 (tie),Expedition Everest,Disney’s Animal Kingdom,"Orlando, Fla.",2006,Vekoma/WED Imagineering,76,2013,Steel
+512,31,The Boss,Six Flags St. Louis,"Eureka, Mo.",2000,Custom Coasters,140,2016,Wood
+513,13,Phantom’s Revenge,Kennywood,"West Mifflin, Pa.",2001,Morgan/Arrow,324,2018,Steel
+514,14,Prowler,Worlds of Fun,"Kansas City, Mo.",2009,Great Coasters Int.,256,2016,Wood
+515,3,Voyage,Holiday World,"Santa Claus, Ind.",2006,Gravity Group,1086,2018,Wood
+516,38 (tie),Air,Alton Towers,"Staffordshire, England",2002,B&M,108,2015,Steel
+517,15,X2,Six Flags Magic Mountain,"Valencia, Calif.",2002,Arrow,213,2010,Steel
+518,38 – tie,American Thunder,Six Flags St. Louis,"Eureka, Mo.",2008,Great Coasters Int.,117,2018,Wood
+519,5,New Texas Giant,Six Flags Over Texas,"Arlington, Texas",2011,Rocky Mountain,564,2012,Steel
+520,40,Megafobia,Oakwood,"Pembrokeshire, Wales",1996,CCI,76,2013,Wood
+521,35,Twister,Knoebels Amusement Resort,"Elysburg, Pa.",1999,Fetterman/Knoebels,119,2017,Wood
+522,6,Expedition GeForce,Holiday Park,"Hassloch, Germany",2001,Intamin,537,2012,Steel
+523,40,Tatsu,Six Flags Magic Mountain,"Valencia, Calif.",2006,B & M,73,2010,Steel
+524,31 (tie),Wild Eagle,Dollywood,"Pigeon Forge, Tenn.",2012,B&M,138,2015,Steel
+525,33,Blue Streak,Conneaut Lake Park,"Conneaut Lake, Pa.",1938,Vettel,99,2013,Wood
+526,8,The Beast,Kings Island,"Mason, Ohio",1979,KECO,555,2013,Wood
+527,50,Full Throttle,Six Flags Magic Mountain,"Valencia, Calif.",2013,Premier,59,2017,Steel
+528,27,Mind Bender,Six Flags Over Georgia,"Austell, Ga.",1978,Schwarzkopf,168,2016,Steel
+529,46,Tonnerre de Zeus,Parc Asterix,"Plailly, France",1997,Custom Coasters,85,2014,Wood
+530,2,Millennium Force,Cedar Point,"Sandusky, Ohio",2000,Intamin,1156,2018,Steel
+531,5,Thunderhead,Dollywood,"Pigeon Forge, Tenn.",2004,GCII,864,2010,Wood
+532,40,American Thunder,Six Flags St. Louis,"Eureka, Mo.",2009,Great Coasters Int.,96,2017,Wood
+533,42 (tie),Racer,Kennywood,"West Mifflin, Pa.",1927,PTC – Miller,73,2012,Wood
+534,38,Superman Krypton Coaster,Six Flags Fiesta Texas,"San Antonio, Texas",2000,B & M,99,2011,Steel
+535,21,Balder,Liseberg,"Stockholm, Sweden",2003,Intamin,144,2010,Wood
+536,17,Prowler,Worlds of Fun,"Kansas City, Mo.",2009,Great Coasters Int.,231,2015,Wood
+537,49 (tie),Medusa Steel Coaster,Six Flags Mexico,"Mexico City, Mexico",2014,Rocky Mountain,83,2015,Steel
+538,31,X2,Six Flags Magic Mountain,"Valencia, Calif.",2001,Arrow,162,2018,Steel
+539,10,Lightning Racer,Hersheypark,"Hershey, Pa.",2000,Great Coasters Int.,347,2016,Wood
+540,16,New Texas Giant,Six Flags Over Texas,"Arlington, Texas",2011,RMC,272,2016,Steel
+541,19,Iron Rattler,Six Flags Fiesta Texas,"San Antonio, Texas",2013,Rocky Mountain,294,2015,Steel
+542,13,Banshee,Kings Island,"Mason, Ohio",2014,B&M,286,2016,Steel
+543,46,Expedition Everest,Disney’s Animal Kingdom,"Orlando, Fla.",2006,Vekoma,82,2018,Steel
+544,20,Nemesis,Alton Towers,"Staffordshire, England",1994,B&M,254,2017,Steel
+545,12,Maverick,Cedar Point,"Sandusky, Ohio",2007,Intamin,306,2016,Steel
+546,4,The Voyage,Holiday World,"Santa Claus, Ind.",2006,Gravity Group,1184,2015,Wood
+547,50,Twister,Knoebels Amusement Resort,"Elysburg, Pa.",1999,Fetterman/Knoebels,75,2018,Wood
+548,46-tie,Whizzer,Six Flags Great America,"Gurnee, Ill.",1976,Schwarzkopf,68,2017,Steel
+549,37,Kumba,Busch Gardens Tampa,"Tampa, Fla.",1993,B&M,115,2018,Steel
+550,31,Wodan Timbur Coaster,Europa-Park,"Rust, Germany",2012,GCII,108,2013,Wood
+551,13,Intimidator 305,Kings Dominion,"Doswell, Va.",2010,IntaRide,381,2011,Steel
+552,11,Phantom’s Revenge,Kennywood,"West Mifflin, Pa.",2001,Morgan,384,2014,Steel
+553,33,Storm Chaser,Kentucky Kingdom,"Louisville, Ky.",2016,RMC,135,2017,Steel
+554,10,Lightning Racer,Hersheypark,"Hershey, Pa.",2000,GCII,403,2010,Wood
+555,38,Wooden Warrior,Quassy Amusement Park,"Middlebury, Conn.",2011,Gravity Group,130,2015,Wood
+556,34,Manta,SeaWorld Orlando,"Orlando, Fla.",2009,B & M,99,2012,Steel
+557,31,Mako,SeaWorld Orlando,"Orlando, Fla.",2016,B&M,171,2017,Steel
+558,35,Cheetah Hunt,Busch Gardens Tampa,"Tampa, Fla.",2011,Intamin,132,2018,Steel
+559,2,Bizarro,Six Flags New England,"Agawam, Mass.",2000,Intamin,1013,2010,Steel
+560,18,X2,Six Flags Magic Mountain,"Valencia, Calif.",2002,Arrow,209,2012,Steel
+561,9,Shivering Timbers,Michigan’s Adventure,"Muskegon, Mich.",1998,CCI,484,2011,Wood
+562,7 (tie),Expedition GeForce,Holiday Park,"Hassloch, Germany",2001,Intamin,643,2011,Steel
+563,21 (tie),Flying Turns,Knoebels Amusement Resort,"Elysburg, Pa.",2013,Knoebels,211,2015,Wood
+564,14,Cyclone,Coney Island/Luna Park,"Brooklyn, N.Y.",1927,Kenan/Baker,259,2012,Wood
+565,35 (tie),Blue Streak,Cedar Point,"Sandusky, Ohio",1964,PTC/Hoover,133,2015,Wood
+566,30,The Swarm,Thorpe Park,"Churtsey, England",2012,B&M,154,2015,Steel
+567,32,Grand National,Blackpool Pleasure Beach,"Blackpool, England",1935,Paige,110,2014,Wood
+568,9,Top Thrill Dragster,Cedar Point,"Sandusky, Ohio",2003,Intamin,627,2011,Steel
+569,4,Expedition GeForce,Holiday Park,"Hassloch, Germany",2001,Intamin,540,2018,Steel
+570,36,Alpengeist,Busch Gardens Williamsburg,"Williamsburg, Va.",1997,B&M,104,2017,Steel
+571,34,Powder Keg,Silver Dollar City,"Branson, Mo.",2005,S & S,102,2010,Steel
+572,46 (tie),Timber Terror,Silverwood,"Athol, Idaho",1996,CCI,55,2012,Wood
+573,47,Expedition Everest,Disney’s Animal Kingdom,"Orlando, Fla.",2006,Vekoma/WED Imag.,80,2011,Steel
+574,21 (tie),Maverick,Cedar Point,"Sandusky, Ohio",2007,Intamin,152,2010,Steel
+575,15,The Legend,Holiday World,"Santa Claus, Ind.",2000,CCI,211,2010,Wood
+576,9,The Raven,Holiday World,"Santa Claus, Ind.",1995,CCI,439,2010,Wood
+577,25 tie,Comet,The Great Escape,"Lake George, N.Y.",1994,PTC/Schmeck,166,2016,Wood
+578,8,Thunderhead,Dollywood,"Pigeon Forge, Tenn.",2004,Great Coasters Int.,560,2017,Wood
+579,6,Expedition GeForce,Holiday Park,"Hassloch, Germany",2001,Intamin,514,2010,Steel
+580,32 (tie),Taron,Phantasialand,"Brühl, Germany",2016,Intamin,122,2016,Steel
+581,13,Prowler,Worlds of Fun,"Kansas City, Mo.",2009,GCII,284,2012,Wood
+582,35,El Toro,Freizeitpark Plohn,"Lengenfeld, Germany",2009,GCII,111,2011,Wood
+583,18,Wicked Cyclone,Six Flags New England,"Agawam, Mass.",2015,RMC,265,2016,Steel
+584,4,Thunderhead,Dollywood,"Pigeon Forge, Tenn.",2004,GCII,1018,2012,Wood
+585,35,Lisebergbanan,Liseberg,"Gothenburg, Sweden",1987,Schwarzkopf,113,2014,Steel
+586,26 (tie),Shock Wave,Six Flags Over Texas,"Arlington, Texas",1978,Schwarzkopf,124,2012,Steel
+587,15,Magnum XL-200,Cedar Point,"Sandusky, Ohio",1999,Arrow,355,2015,Steel
+588,13,Phantom’s Revenge,Kennywood,"West Mifflin, Pa.",2001,Morgan/Arrow,334,2013,Steel
+589,40,Lisebergbanan,Liseberg,"Gothenburg, Sweden",1987,Schwarz,84,2017,Steel
+590,49,Kentucky Rumbler,Beech Bend,"Bowling Green, Ky.",2006,Great Coasters Int.,71,2017,Wood
+591,12,Prowler,Worlds of Fun,"Kansas City, Mo.",2009,GCII,290,2013,Wood
+592,22,Cú Chulainn,Tayto Park,"Ashbourne, Ireland",2015,Gravity Group,179,2016,Wood
+593,40,White Lightning,Fun Spot America,"Orlando, Fla.",2013,Great Coasters Int.,115,2015,Wood
+594,17,Mind Bender,Six Flags Over Georgia,"Austell, Ga.",1978,Schwarzkopf,217,2011,Steel
+595,47,Tremors,Silverwood,"Athol, Idaho",1999,Custom Coasters,80,2017,Wood
+596,11,Lightning Racer,Hersheypark,"Hershey, Pa.",2000,GCII,351,2012,Wood
+597,14-tie,Wicked Cyclone,Six Flags New England,"Agawam, Mass.",2015,RMC,291,2017,Steel
+598,21 – tie,Shivering Timbers,Michigan’s Adventure,"Muskegon, Mich.",1998,Custom Coasters,206,2018,Wood
+599,22,American Thunder,Six Flags St. Louis,"Eureka, Mo.",2008,GCII,196,2011,Wood
+600,49,Wood Coaster,Knight Valley,"Shenzhen, China",2011,Great Coasters Int.,76,2016,Wood
+601,23,Alpengeist,Busch Gardens Williamsburg,"Williamsburg, Va.",1997,B&M,220,2014,Steel
+602,50,Yankee Cannonball,Canobie Lake Park,"Salem, N.H.",1936,PTC – Schmeck,55,2013,Wood
+603,15,Taron,Phantasialand,"Brühl, Germany",2016,Intamin,283,2018,Steel
+604,29-tie,Cheetah Hunt,Busch Gardens Tampa,"Tampa, Fla.",2011,Intamin,181,2017,Steel
+605,17,Blue Fire Megacoaster,Europa-Park,"Rust, Germany",2009,Mack,304,2014,Steel
+606,2,Bizarro,Six Flags New England,"Agawam, Mass.",2000,Intamin,1049,2014,Steel
+607,50,Renegade,Valleyfair!,"Shakopee, Minn.",2007,GCII,49,2012,Wood
+608,19,Blue Fire,Europa-Park,"Rust, Germany",2009,Mack,244,2018,Steel
+609,47,Incredible Hulk Coaster,Universal’s Islands of Adventure,"Orlando, Fla.",1999,B & M,56,2012,Steel
+610,10,Intimidator-305,Kings Dominion,"Doswell, Va.",2010,Intamin,412,2013,Steel
+611,29,Wildfire,Kolmården,"Norrköping, Sweden",2016,Rocky Mountain,177,2017,Wood
+612,41,Goliath,Walabi World,"Biddinghuizen, The Netherlands",2002,Intamin,71,2010,Steel
+613,8,Intimidator,Carowinds,"Charlotte, N.C.",2010,B & M,478,2013,Steel
+614,41,Blue Streak,Cedar Point,"Sandusky, Ohio",1964,PTC/Hoover,109,2018,Wood
+615,29,GhostRider,Knott’s Berry Farm,"Buena Park, Calif.",1998,CCI,113,2013,Wood
+616,42 (tie),Cannibal,Lagoon,"Farmington, Utah",2015,Lagoon,92,2016,Steel
+617,13,Top Thrill Dragster,Cedar Point,"Sandusky, Ohio",2003,Intamin,408,2015,Steel
+618,33,Troy,Toverland,"Sevenum, The Netherlands",2007,GCII,123,2011,Wood
+619,19,Mind Bender,Six Flags Over Georgia,"Austell, Ga.",1978,Schwarzkopf,247,2013,Steel
+620,10,Diamondback,Kings Island,"Mason, Ohio",2009,B & M,395,2012,Steel
+621,42,Shock Wave,Six Flags Over Texas,"Arlington, Texas",1978,Schwarzkopf,93,2011,Steel
+622,7,The Beast,Kings Island,"Mason, Ohio",1979,KECO,677,2012,Wood
+623,22,Leviathan,Canada’s Wonderland,"Vaughan, Ontario, Canada",2012,B & M,173,2012,Steel
+624,23,GhostRider,Knott’s Berry Farm,"Buena Park, Calif.",1998,CCI,142,2012,Wood
+625,28,Behemoth,Canada’s Wonderland,"Vaughan, Ontario, Canada",2008,B&M,184,2017,Steel
+626,18,Behemoth,Canada’s Wonderland,"Vaughan, Ontario, Canada",2008,B&M,301,2015,Steel
+627,26 (tie),Skyrush,Hersheypark,"Hershey, Pa.",2012,Intamin,157,2014,Steel
+628,21,Iron Rattler,Six Flags Fiesta Texas,"San Antonio, Texas",2013,RMC,254,2016,Steel
+629,34,Thunderbird,Holiday World,"Santa Claus, Ind.",2015,B&M,113,2016,Steel
+630,40,Volcano: The Blast Coaster,Kings Dominion,"Doswell, Va.",1998,Intamin,80,2012,Steel
+631,7,The Beast,Kings Island,"Kings Mills, Ohio",1979,KECO,552,2010,Wood
+632,37,Steel Force,Dorney Park,"Allentown, Pa.",1998,Morgan,87,2013,Steel
+633,10,Phantom’s Revenge,Kennywood,"West Mifflin, Pa.",2001,Morgan,329,2016,Steel
+634,41-tie,Kumba,Busch Gardens Tampa,"Tampa, Fla.",1993,B&M,78,2017,Steel
+635,32,Twister,Knoebels Amusement Resort,"Elysburg, Pa.",1999,Fetterman/Knoebels,79,2010,Wood
+636,48,Goliath,Walabi World,"Biddinghuizen, The Netherlands",2002,Intamin,55,2012,Steel
+637,20,Jack Rabbit,Kennywood,"West Mifflin, Pa.",1921,PTC – Miller,146,2010,Wood
+638,7,Outlaw Run,Silver Dollar City,"Branson, Mo.",2013,Rocky Mountain,573,2018,Wood
+639,38,SheiKra,Busch Gardens Tampa Bay,"Tampa, Fla.",2005,B&M,101,2014,Steel
+640,41,Viper,Six Flags Great America,"Gurnee, Ill.",1995,Starkey/Six Flags,95,2011,Wood
+641,1,Millennium Force,Cedar Point,"Sandusky, Ohio",2000,Intamin,1204,2013,Steel
+642,8,Hades,Mt. Olympus Theme Park,"Wisconsin Dells, Wis.",2005,Gravity Group,510,2010,Wood
+643,23,Evel Knievel,Six Flags St. Louis,"Eureka, Mo.",2008,GCII,141,2010,Wood
+644,40,Wooden Warrior,Quassy Amusement Park,"Middlebury, Conn.",2011,Gravity Group,99,2011,Wood
+645,11,Intimidator 305,Kings Dominion,"Doswell, Va.",2010,IntaRide,295,2010,Steel
+646,18,The Legend,Holiday World,"Santa Claus, Ind.",2000,CCI,171,2012,Wood
+647,2,The Voyage,Holiday World,"Santa Claus, Ind.",2006,Gravity Group,1190,2012,Wood
+648,25,Troy,Toverland,"Sevenum, Netherlands",2007,Great Coasters Int.,183,2018,Wood
+649,33,Kentucky Rumbler,Beech Bend,"Bowling Green, Ky.",2006,Great Coasters Int.,149,2015,Wood
+650,27,Mind Bender,Six Flags Over Georgia,"Austell, Ga.",1978,Schwarzkopf,200,2015,Steel
+651,24,Colossos,Heide Park,"Soltau, Germany",2001,Intamin,162,2014,Wood
+652,33,Rampage,Alabama Adventure,"Bessemer, Ala.",1998,CCI,78,2010,Wood
+653,26,Steel Force,Dorney Park,"Allentown, Pa.",1997,Morgan,177,2011,Steel
+654,36,Expedition Everest,Disney’s Animal Kingdom,"Orlando, Fla.",2006,Vekoma/WED Imag.,86,2010,Steel
+655,26,Coaster,Playland at the PNE,"Vancouver, B.C. Canada",1958,Phare,124,2010,Wood
+656,14,Montu,Busch Gardens Tampa Bay,"Tampa, Fla.",1996,B & M,331,2011,Steel
+657,48,Rutschebanen,Tivoli Gardens,"Copenhagen, Denmark",ca. 1915,unknown,62,2011,Wood
+658,38,Thunderbird,PowerLand,"Alahärmä, Finland",2006,GCII,102,2011,Wood
+659,27,Megafobia,Oakwood,"Pembrokeshire, Wales",1996,Custom Coasters,171,2015,Wood
+660,41,Rutschebanan,Tivoli Gardens,"Copenhagen, Denmark",ca. 1914,LaMarcus Thompson,79,2012,Wood
+661,30,Playland Wooden Coaster,Playland at the PNE,"Vancouver, B.C., Canada",1958,Phare,111,2013,Wood
+662,48 (tie),Lisebergbanen,Liseberg,"Gothenburg, Sweden",1987,Schwarzkopf,60,2013,Steel
+663,28,Wooden Warrior,Quassy Park,"Middlebury, Conn.",2011,Gravity Group,122,2014,Wood
+664,27,Cyclone,Luna Park,"Brooklyn, N.Y.",1927,Keenan/Baker,165,2016,Wood
+665,29,El Toro,Freizeitpark Plohn,"Lengenfeldl, Germany",2009,Great Coasters Int.,119,2014,Wood
+666,24,Cornball Express,Indiana Beach,"Monticello, Ind.",2004,CCI,179,2011,Wood
+667,8,Leviathan,Canada’s Wonderland,"Vaughan, Ontario, Canada",2012,B&M,491,2015,Steel
+668,6,Ravine Flyer II,Waldameer,"Erie, Pa.",2008,Gravity Group,762,2012,Wood
+669,1,Millennium Force,Cedar Point,"Sandusky, Ohio",2000,Intamin,1139,2014,Steel
+670,45 (tie),Comet,Hersheypark,"Hershey, Pa.",1946,PTC/Schmeck,78,2015,Wood
+671,45 (tie),X Flight,Six Flags Great America,"Gurnee, Ill.",2012,B & M,73,2013,Steel
+672,25,Alpengeist,Busch Gardens Williamsburg,"Williamsburg, Va.",1997,B & M,147,2013,Steel
+673,4,Diamondback,Kings Island,"Mason, Ohio",2009,B&M,579,2014,Steel
+674,28,GateKeeper,Cedar Point,"Sandusky, Ohio",2013,B & M,113,2013,Steel
+675,41,Troy,Toverland,"Sevenum, The Netherlands",2007,GCII,43,2010,Wood
+676,23,Raven,Holiday World,"Santa Claus, Ind.",1995,Custom Coasters,214,2017,Wood
+677,33,Kingda Ka,Six Flags Great Adventure,"Jackson, N.J.",2005,Intamin,129,2011,Steel
+678,33,Lisebergbanan,Liseberg,"Gothenberg, Sweden",1987,Schwarzkopf,100,2012,Steel
+679,22,Montu,Busch Gardens Tampa,"Tampa, Fla.",1996,B&M,203,2016,Steel
+680,24,Black Mamba,Phantasialand,"Brühl, Germany",2006,B&M,179,2014,Steel
+681,18,Comet,The Great Escape,"Lake George, N.Y.",1994,PTC/Schmeck,211,2014,Wood
+682,26,Renegade,Valleyfair,"Shakopee, Minn.",2007,GCII,161,2011,Wood
+683,7,Intimidator,Carowinds,"Charlotte, N.C.",2010,B&M,499,2015,Steel
+684,20,Shivering Timbers,Michigan’s Adventure,"Muskegon, Mich.",1998,Custom Coasters,219,2015,Wood
+685,29 (tie),Ride of Steel,Darien Lake,"Darien Center, N.Y.",1999,Intamin,148,2011,Steel
+686,16,Kentucky Rumbler,Beech Bend,"Bowling Green, Ky.",2006,GCII,159,2010,Wood
+687,29-tie,Helix,Liseberg,"Gothenburg, Sweden",2014,Mack,181,2017,Steel
+688,9,Gold Striker,Califoria’s Great America,"Santa Clara, Calif.",2013,Great Coasters Int.,497,2018,Wood
+689,44,Wild One,Six Flags America,"Upper Marlboro, Md.",1986,PTC/Miller/Dinn,98,2018,Wood
+690,22,Intimidator,Carowinds,"Charlotte, N.C.",2010,B&M,233,2018,Steel
+691,46,Grizzly (KD),Kings Dominion,"Doswell, Va.",1982,,81,2017,Wood
+692,16,Comet,The Great Escape,"Lake George, N.Y.",1994,PTC – Schmeck,215,2013,Wood
+693,1,Fury 325,Carowinds,"Charlotte, N.C.",2015,B&M,1222,2018,Steel
+694,18,Raven,Holiday World,"Santa Claus, Ind.",1995,Custom Coasters,229,2018,Wood
+695,20 (tie),Megafobia,Oakwood Theme Park,"Pembrokshire, Wales",1996,CCI,212,2011,Wood
+696,39 – tie,Jetline,Gröna Lund,"Stockholm, Sweden",1988,Schwarzkopf,99,2018,Steel
+697,39 – tie,Superman Ride of Steel,Six Flags America,"Upper Marlsboro, Md.",2000,Intamin,99,2018,Steel
+698,43,Great American Scream Machine,Six Flags Over Georgia,"Austell, Ga.",1973,PTC – Allen,66,2013,Wood
+699,27 (tie),Steel Force,Dorney Park,"Allentown, Pa.",1997,Morgan,124,2010,Steel
+700,12,Iron Rattler,Six Flags Fiesta Texas,"San Antonio, Texas",2013,Rocky Mountain,367,2014,Steel
+701,27,Prowler,Worlds of Fun,"Kansas City, Mo.",2009,Great Coasters Int.,186,2017,Wood
+702,43,Screamin’ Eagle,Six Flags St. Louis,"Eureka, Mo.",1976,PTC/Allen,86,2017,Wood
+703,2,Phoenix,Knoebels Amusement Resort,"Elysburg, Pa.",1985,Dinn/PTC-Schmeck,1375,2011,Wood
+704,24,Twister,Gröna Lund,"Stockholm, Sweden",2011,Gravity Group,120,2012,Wood
+705,44 (tie),Tonnerre de Zeus,Parc Astérix,"Plailly, France",1997,CCI,64,2013,Wood
+706,18,Time Traveler,Silver Dollar City,"Branson, Mo.",2018,Mack,248,2018,Steel
+707,28,Grand National,Pleasure Beach Blackpool,"Blackpool, England",1935,Paige,116,2010,Wood
+708,38,Superman Ride of Steel,Six Flags America,"Largo, Md.",2000,Intamin,86,2013,Steel
+709,38,Boardwalk Bullet,Kemah Boardwalk,"Kemah, Texas",2007,M&V/Gravity Group,51,2010,Wood
+710,30,Raptor,Cedar Point,"Sandusky, Ohio",1994,B & M,102,2013,Steel
+711,5,Thunderhead,Dollywood,"Pigeon Forge, Tenn.",2004,GCII,1065,2011,Wood
+712,30,Skyrush,Hersheypark,"Hershey, Pa.",2012,Intamin,173,2018,Steel
+713,49,Wooden Warrior,Quassy Amusement Park,"Meddlebury, Conn.",2011,Gravity Group,77,2018,Wood
+714,45 (tie),Olympia Looping,owner: R. Barth and Sohn KG,[traveling],1989,Schwarzkopf,73,2013,Steel
+715,17,Giant Dipper,Santa Cruz Beach Boardwalk,"Santa Cruz, Calif.",1924,Prior & Church/Looff,179,2012,Wood
+716,4,The Voyage,Holiday World,"Santa Claus, Ind.",2006,Gravity Group,1028,2016,Wood
+717,27,The Legend,Holiday World,"Santa Claus, Ind.",2000,Custom Coasters,137,2014,Wood
+718,16,Kentucky Rumbler,Beech Bend,"Bowling Green, Ky.",2006,GCII,263,2011,Wood
+719,21,Nemesis,Alton Towers,"Staffordshire, England",1994,B&M,245,2014,Steel
+720,36,Hellcat,Timber Falls,"Wisconsin Dells, Wis.",2004,S & S,90,2012,Wood
+721,8,New Texas Giant,Six Flags Over Texas,"Arlington, Texas",2011,Rocky Mountain,465,2014,Steel
+722,17,Boardwalk Bullet,Kemah Boardwalk,"Kemah, Texas",2007,M&V/Gravity Group,241,2011,Wood
+723,2,Bizarro,Six Flags New England,"Agawam, Mass.",2000,Intamin,1011,2013,Steel
+724,23,Alpengeist,Busch Gardens Williamsburg,"Williamsburg, Va.",1997,B & M,145,2010,Steel
+725,45,Colossus,Six Flags Magic Mountain,"Valencia, Calif.",1978,IAD,86,2014,Wood
+726,30,Playland Wooden Coaster,Playland,"Vancouver, B.C., Canada",1958,Phare,141,2016,Wood
+727,33,Griffon,Busch Gardens Williamsburg,"Williamsburg, Va.",2007,B & M,97,2013,Steel
+728,6,Apollo’s Chariot,Busch Gardens Williamsburg,"Williamsburg, Va.",1999,B&M,522,2018,Steel
+729,44,T Express,Everland,"Yongin-si, South Korea",2008,Intamin,84,2016,Wood
+730,26 (tie),Goliath,La Ronde,"Montreal, Quebec, Canada",2006,B&M,157,2014,Steel
+731,48,Raging Bull,Six Flags Great America,"Gurnee, Ill.",1999,B&M,78,2018,Steel
+732,1,Boulder Dash,Lake Compounce,"Bristol, Conn.",2000,Custom Coasters,1480,2014,Wood
+733,46-tie,Shock Wave,Six Flags Over Texas,"Arlington, Texas",1978,Schwarzkopf,68,2017,Steel
+734,42,Skyrush,Hersheypark,"Hershey, Pa.",2012,Intamin,77,2012,Steel
+735,31,Raging Bull,Six Flags Great America,"Gurnee, Ill.",1999,B&M,124,2014,Steel
+736,12,Intimidator 305,Kings Dominion,"Doswell, Va.",2010,Intamin,344,2018,Steel
+737,11,Mystic Timbers,Kings Island,"Mason, Ohio",2017,Great Coasters Int.,345,2017,Wood
+738,1,Millennium Force,Cedar Point,"Sandusky, Ohio",2000,Intamin,1205,2015,Steel
+739,39,Cheetah Hunt,Busch Gardens Tampa,"Tampa, Fla.",2011,Intamin,97,2016,Steel
+740,50,Wood Coaster,Knight Valley,"Shenzhen, China",2011,Great Coasters Int.,68,2014,Wood
+741,2,Millennium Force,Cedar Point,"Sandusky, Ohio",2000,Intamin,1122,2016,Steel
+742,12,Hades,Mount Olympus Theme Park,"Wisconsin Dells, Wis.",2005,Gravity Group,344,2012,Wood
+743,23,Wodan,Europa-Park,"Rust, Germany",2012,Great Coasters Int.,175,2016,Wood
+744,41,Rutschebanen,Tivoli Gardens,"Copenhagen, Denmark",1914,Thompson,98,2014,Wood
+745,45,Whizzer,Six Flags Great America,"Gurnee, Ill.",1976,Schwarzkopf,85,2016,Steel
+746,8,Ravine Flyer II,Waldameer,"Erie, Pa.",2008,Gravity Group,560,2018,Wood
+747,42 (tie),PowderKeg,Silver Dollar City,"Branson, Mo.",2005,S & S,76,2013,Steel
+748,45,Afterburn,Carowinds,"Charlotte, N.C.",1999,B & M,59,2012,Steel
+749,34,Black Mamba,Phantasialand,"Brühl, Germany",2006,B & M,94,2013,Steel
+750,11,Iron Rattler,Six Flags Fiesta Texas,"San Antonio, Texas",2013,Rocky Mountain,393,2013,Steel
+751,39,Steel Force,Dorney Park,"Allentown, Pa.",1997,Morgan,87,2012,Steel
+752,28,Twisted Colossus,Six Flags Magic Mountain,"Valencia, Calif.",2015,Rocky Mountain,193,2015,Steel
+753,37,Cheetah Hunt,Busch Gardens Tampa,"Tampa, Fla.",2011,Intamin,109,2015,Steel
+754,4,BoulderDash,Lake Compounce,"Bristol, Conn.",2000,Custom Coasters,982,2018,Wood
+755,8,Hades,Mt. Olympus Theme Park,"Wisconsin Dells, Wis.",2005,Gravity Group,494,2011,Wood
+756,15,Thunderbolt,Kennywood,"West Mifflin, Pa.",1968,Vettel/Miller,222,2013,Wood
+757,19,Shivering Timbers,Michigan’s Adventure,"Muskegon, Mich.",1998,Custom Coasters,213,2016,Wood
+758,47,Raptor,Cedar Point,"Sandusky, Ohio",1994,B&M,73,2014,Steel
+759,16,Cyclone,Luna Park/Coney Island,"Brookyn, N.Y.",1927,Keenan/Baker,242,2015,Wood
+760,48,Grand National,Blackpool Pleasure Beach,"Blackpool, England",1935,Paige,75,2017,Wood
+761,30,Cú Chulainn,Tayto Park,"Ashbourne, Ireland",2015,Gravity Group,168,2017,Wood
+762,21,Rampage,Alabama Splash Adventure,"Bessemer, Ala.",1998,Custom Coasters,218,2017,Wood
+763,1,Fury 325,Carowinds,"Charlotte, N.C.",2015,B&M,1354,2017,Steel
+764,13,Giant Dipper,Santa Cruz Beach Boardwalk,"Santa Cruz, Calif.",1924,Prior & Church/Looff,278,2015,Wood
+765,39 (tie),Cornball Express,Indiana Beach,"Monticello, Ind.",2001,CCI,80,2012,Wood
+766,45,Shambhala,PortAventura,"Salou, Spain",2012,B&M,89,2018,Steel
+767,41,El Toro,Freitzeitpark Plohn,"Legendfeld, Germany",2006,Great Coasters Int.,92,2017,Wood
+768,47,Storm Chaser,Kentucky Kingdom,"Louisville, Ky.",2016,Rocky Mountain,81,2018,Steel
+769,16,Twisted Colossus,Six Flags Magic Mountain,"Valencia, Calif.",2015,RMC,284,2017,Steel
+770,10,Diamondback,Kings Island,"Mason, Ohio",2009,B&M,347,2018,Steel
+771,5,Thunderhead,Dollywood,"Pigeon Forge, Tenn.",2004,Great Coasters Int.,904,2015,Wood
+772,14,Thunderbolt,Kennywood,"West Mifflin, Pa.",1968,Vettel/Miller,267,2011,Wood
+773,10,Gold Striker,California’s Great America,"Santa Clara, Calif.",2013,Great Coasters Int.,489,2017,Wood
+774,17,Blue Fire Megacoaster,Europa-Park,"Rust, Germany",2009,Mack,302,2015,Steel
+775,10,Maverick,Cedar Point,"Sandusky, Ohio",2007,Intamin,375,2017,Steel
+776,25,Lightning Run,Kentucky Kingdom,"Louisville, Ky.",2014,Chance,165,2014,Steel
+777,36 (tie),Twister,Gröna Lund,"Stockholm, Sweden",2011,Gravity Group,110,2011,Wood
+778,28,Colossos,Heide Park,"Soltau, Germany",2001,Intamin,171,2018,Wood
+779,43,Incredible Hulk Coaster,Universal’s Islands of Adventure,"Orlando, Fla.",1999,B & M,57,2010,Steel
+780,31,Hades 360,Mount Olympus,"Wisconsin Dells, Wis.",2005,Gravity Group,156,2015,Wood
+781,26,Skyrush,Hersheypark,"Hershey, Pa.",2012,Intamin,136,2013,Steel
+782,9,Shivering Timbers,Michigan’s Adventure,"Muskegon, Mich.",1998,CCI,378,2012,Wood
+783,48,Pepsi Max Big One,"Pleasure Beach, Blackpool","Blackpool, England",1994,Arrow,79,2011,Steel
+784,29,Wodan Timbur Coaster,Europa-Park,"Rust, Germany",2012,Great Coasters Int.,158,2015,Wood
+785,26,Gold Striker,California’s Great America,"Santa Clara, Calif.",2013,GCII,118,2013,Wood
+786,8,Outlaw Run,Silver Dollar City,"Branson, Mo.",2013,Rocky Mountain,637,2015,Wood
+787,44,Twister,Gröna Lund,"Stockholm, Sweden",2011,Gravity Group,83,2015,Wood
+788,22,SheiKra,Busch Gardens Tampa Bay,"Tampa, Fla.",2005,B & M,186,2011,Steel
+789,43,Goliath,Six Flags Magic Mountain,"Valencia, Calif.",2000,Giovanola,79,2014,Steel
+790,35,Mako,SeaWorld Orlando,"Orlando, Fla.",2016,B&M,110,2016,Steel
+791,18,The Legend,Holiday World,"Santa Claus, Ind.",2000,CCI,240,2011,Wood
+792,44 (tie),Wild Mouse,"Pleasure Beach, Blackpool","Blackpool, England",1958,Wright,74,2011,Wood
+793,28,Apocalypse,Six Flags Magic Mountain,"Valencia, Calif.",2009,GCII,111,2012,Wood
+794,27,Blue Streak,Cedar Point,"Sandusky, Ohio",1964,PTC – Hoover,116,2013,Wood
+795,44,Storm Runner,Hersheypark,"Hershey, Pa.",2004,Intamin,66,2012,Steel
+796,19,Goliath,Six Flags Great America,"Gurnee, Ill.",2014,Rocky Mountain,215,2018,Wood
+797,3,El Toro,Six Flags Great Adventure,"Jackson, N.J.",2006,Intamin,1121,2016,Wood
+798,13 (tie),Magnum XL-200,Cedar Point,"Sandusky, Ohio",1989,Arrow,366,2014,Steel
+799,27,Alpengeist,Busch Gardens Williamsburg,"Williamsburg, Va.",1997,B & M,156,2011,Steel
+800,9,Lightning Racer,Hersheypark,"Hershey, Pa.",2000,GCII,364,2013,Wood
+801,29,Goliath,Six Flags Magic Mountain,"Valencia, Calif.",2000,Giovanola,122,2010,Steel
+802,25 tie,El Toro,Freitzeitpark Plohn,"Legendfeld, Germany",2009,Great Coasters Int.,166,2016,Wood
+803,6,Ravine Flyer II,Waldameer,"Erie, Pa.",2008,Gravity Group,781,2010,Wood
+804,48,Cyclone,Lakeside Park,"Denver, Colo.",1940,Vettel,60,2013,Wood
+805,33,Boardwalk Bullet,Kemah Boardwalk,"Kemah, Texas",2007,M&V/Gravity Group,157,2018,Wood
+806,18,Colossos,Heide Park,"Soltau, Germany",2001,Intamin,222,2016,Wood
+807,38 – tie,Screamin’ Eagle,Six Flags St. Louis,"Eureka, Mo.",1976,Allen/PTC,117,2018,Wood
+808,10,New Texas Giant,Six Flags Over Texas,"Arlington, Texas",2011,Rocky Mountain,450,2015,Steel
+809,28,Tatsu,Six Flags Magic Mountain,"Valencia, Calif.",2006,B & M,116,2012,Steel
+810,27 (tie),Kingda Ka,Six Flags Great Adventure,"Jackson, N.J.",2005,Intamin,124,2010,Steel
+811,25,Black Mamba,Phantasialand,"Brühl, Germany",2006,B&M,178,2016,Steel
+812,35,Racer,Kennywood,"West Mifflin, Pa.",1927,PTC – Miller,90,2013,Wood
+813,39,Storm Runner,Hersheypark,"Hershey, Pa.",2004,Intamin,74,2010,Steel
+814,36,Goliath,Walabi Holland,"Biddinghulzen, The Netherlands",2002,Intamin,108,2011,Steel
+815,13,The Raven,Holiday World,"Santa Claus, Ind.",1995,Custom Coasters,298,2014,Wood
+816,39 (tie),Boardwalk Bullet,Kemah Boardwalk,"Kemah, Texas",2007,M&V/Gravity Group,80,2012,Wood
+817,39,Thunderbird,Holiday World,"Santa Claus, Ind.",2015,B&M,91,2017,Steel
+818,18,Troy,Toverland,"Sevenum, the Netherlands",2007,Great Coasters Int.,229,2015,Wood
+819,27,Montu,Busch Gardens Tampa,"Tampa, Fla.",1996,B&M,200,2017,Steel
+820,11,Shivering Timbers,Michigan’s Adventure,"Muskegon, Mich.",1998,CCI,393,2010,Wood
+821,15,Wodan,Europa-Park,"Rust, Germany",2012,Great Coasters Int.,223,2017,Wood
+822,30,Hellcat,Timber Falls,"Wisconsin Dells, Wis.",2004,S&S,138,2011,Wood
+823,10,Magnum XL-200,Cedar Point,"Sandusky, Ohio",1989,Arrow,510,2011,Steel
+824,12,Phantom’s Revenge,Kennywood,"West Mifflin, Pa.",2001,Morgan,344,2017,Steel
+825,5,Nitro,Six Flags Great Adventure,"Jackson, N.J.",2001,B&M,650,2015,Steel
+826,31 (tie),Raging Bull,Six Flags Great America,"Gurnee, Ill.",1999,B&M,138,2015,Steel
+827,37,Steel Force,Dorney Park,"Allentown, Pa.",1998,Morgan,106,2014,Steel
+828,9,Gold Striker,California’s Great America,"Santa Clara, Calif.",2013,Great Coasters Int.,560,2015,Wood
+829,17,Top Thrill Dragster,Cedar Point,"Sandusky, Ohio",2003,Intamin,276,2017,Steel
+830,37,Piraten,Djurs Sommerland,"Jylland, Denmark",2008,Intamin,93,2012,Steel
+831,14,Hades 360,Mt. Olympus Theme Park,"Wisconsin Dells, Wis.",2005,Gravity Group,225,2013,Wood
+832,34,White Lightning,Fun Spot America,"Orlando, Fla.",2013,Great Coasters Int.,128,2016,Wood
+833,50,Cyclone,Lakeside Park,"Denver, Colo.",1940,Vettel,29,2010,Wood
+834,22,Maverick,Cedar Point,"Sandusky, Ohio",2007,Intamin,257,2015,Steel
+835,48 (tie),Mindbender,Galaxyland,"Edmonton, Alberta, Canada",1985,Schwarzkopf,42,2010,Steel
+836,25,Skyrush,Hersheypark,"Hershey, Pa.",2012,Intamin,219,2015,Steel
+837,5,Boulder Dash,Lake Compounce,"Bristol, Conn.",2000,CCI,1009,2012,Wood
+838,35,Racer,Kennywood,"West Mifflin, Pa.",1927,PTC-Miller,70,2010,Wood
+839,48,Mine Blower,Fun Spot,"Kissimmee, Fla.",2017,Gravity Group,79,2018,Wood
+840,26,Goliath,Six Flags Over Georgia,"Austell, Ga.",2006,B&M,201,2018,Steel
+841,33,Manta,SeaWorld Orlando,"Orlando, Fla.",2009,B & M,103,2010,Steel
+842,49,Thunderbird,Holiday World,"Santa Claus, Ind.",2015,B&M,72,2018,Steel
+843,44 (tie),Viper,Six Flags Great America,"Gurnee, Ill.",1995,Starkey – Six Flags,64,2013,Wood
+844,17,Behemoth,Canada’s Wonderland,"Vaughan, Ontario, Canada",2008,B & M,276,2013,Steel
+845,31,Raptor,Cedar Point,"Sandusky, Ohio",1994,B & M,111,2012,Steel
+846,1,Boulder Dash,Lake Compounce,"Bristol, Conn.",2000,Custom Coasters,1625,2015,Wood
+847,43,Manta,SeaWorld Orlando,"Orlando, Fla.",2009,B&M,101,2015,Steel
+848,39,Screamin’ Eagle,Six Flags St. Louis,"Eureka, Mo.",1976,PTC/Allen,116,2016,Wood
+849,45,Mean Streak,Cedar Point,"Sandusky, Ohio",1991,Dinn-Summers,57,2012,Wood
+850,28 (tie),Wild Eagle,Dollywood,"Pigeon Forge, Tenn.",2012,B&M,138,2014,Steel
+851,5,Expedition GeForce,Holiday Park,"Hassloch, Germany",2001,Intamin,575,2017,Steel
+852,22,Giant Dipper,Santa Cruz Beach Boardwalk,"Santa Cruz, Calif.",1924,Prior & Church/Looff,142,2010,Wood
+853,24,Behemoth,Canada’s Wonderland,"Vaughan, Ontario, Canada",2008,B&M,198,2016,Steel
+854,3,El Toro,Six Flags Great Adventure,"Jackson, N.J.",2006,Intamin,1359,2011,Wood
+855,37,Blue Streak,Conneaut Lake,"Conneaut Lake, Pa.",1964,Vettel,109,2017,Wood
+856,39,Playland Wooden Coaster,Playland,"Vancouver, B.C., Canada",1958,Phare,98,2017,Wood
+857,7,Iron Rattler,Six Flags Fiesta Texas,"San Antonio, Texas",2013,Rocky Mountain,483,2018,Steel
+858,33,Wicked Cyclone,Six Flags New England,"Agawam, Mass.",2015,Rocky Mountain,158,2018,Steel
+859,50,Tonnerre de Zeus,Parc Asterix,"Plailly, France",1997,CCI,52,2011,Wood
+860,40 (tie),Medusa Steel Coaster,Six Flags Mexico,"Mexico City, Mexico",2014,RMC,94,2016,Steel
+861,14,Mindbender,Six Flags Over Georgia,"Atlanta, Ga.",1978,Schwarzkopf,228,2010,Steel
+862,4,Iron Rattler,Six Flags Fiesta Texas,"San Antonio, Texas",2013,RMC,657,2017,Steel
+863,16,The Legend,Holiday World,"Santa Claus, Ind.",2000,Custom Coasters,241,2016,Wood
+864,31,American Thunder,Six Flags St. Louis,"Eureka, Mo.",2009,Great Coasters Int.,114,2014,Wood
+865,12,Intimidator 305,Kings Dominion,"Doswell, Va.",2010,IntaRide,351,2012,Steel
+866,7,Leviathan,Canada’s Wonderland,"Vaughan, Ontario, Canada",2012,B&M,393,2016,Steel
+867,2,Millennium Force,Cedar Point,"Sandusky, Ohio",2000,Intamin,1129,2017,Steel
+868,23,Goliath,La Ronde,"Montréal, Quebec, Canada",2006,B & M,182,2011,Steel
+869,41,Shock Wave,Six Flags Over Texas,"Arlington, Texas",1978,Schwarzkopf,107,2015,Steel
+870,49,Lisebergbanan,Liseberg,"Gothenburg, Sweden",1987,Schwarzkopf,75,2011,Steel
+871,11,Apollo’s Chariot,Busch Gardens Williamsburg,"Williamsburg, Va.",1999,B&M,374,2017,Steel
+872,16,Balder,Liseberg,"Gothenburg, Sweden",2003,Intamin,221,2017,Wood
+873,31,Dragon Challenge,Universal’s Islands of Adventure,"Orlando, Fla.",1999,B & M,118,2010,Steel
+874,24 (tie),Kumba,Busch Gardens Tampa Bay,"Tampa Bay, Fla.",1993,B & M,129,2010,Steel
+875,19 (tie),SheiKra,Busch Gardens Tampa Bay,"Tampa Bay, Fla.",2005,B & M,172,2010,Steel
+876,42,Playland Wooden Coaster,PNE Playland,"Vancouver, B.C., Canada",1959,Phare,107,2018,Wood
+877,30,Grand National,"Pleasure Beach, Blackpool","Blackpool, England",1935,Paige,106,2012,Wood
+878,25,The Legend,Holiday World,"Santa Claus, Ind.",2000,Custom Coasters,193,2015,Wood
+879,4,Fury 325,Carowinds,"Charlotte, N.C.",2015,B&M,671,2015,Steel
+880,25,Troy,Toverland,"Sevenum, the Netherlands",2007,GCII,117,2012,Wood
+881,41 (tie),Grand National,"Pleasure Beach, Blackpool","Blackpool, England",1935,Paige,70,2013,Wood
+882,25,Flying Turns,Knoebels Amusement Resort,"Elysburg, Pa.",2013,Knoebels,155,2014,Wood
+883,30,Blue Streak,Conneaut Lake Park,"Conneaut Lake, Pa.",1938,Vettel,117,2014,Wood
+884,41 (tie),T Express,Everland,"Yongin-si, South Korea",2008,Intamin,70,2013,Wood
+885,7,Apollo’s Chariot,Busch Gardens Williamsburg,"Williamsburg, Va.",1999,B&M,484,2014,Steel
+886,22,Cyclone,Luna Park,"Brooklyn, N.Y.",1927,Keenan/Baker,217,2017,Wood
+887,46,Blue Streak,Conneaut Lake Park,"Conneaut Lake, Pa.",1938,Vettel,68,2011,Wood
+888,13 (tie),Intimidator 305,Kings Dominion,"Doswell, Va.",2010,Intamin,366,2014,Steel
+889,48,Olympia Looping,owner: R. Barth & Sohn KB,(traveling),1989,Schwarzkopf,86,2015,Steel
+890,29,Colossos,Heide-Park,"Soltau, Germany",2001,Intamin,139,2011,Wood
+891,19,Top Thrill Dragster,Cedar Point,"Sandusky, Ohio",2003,Intamin,273,2014,Steel
+892,38,Mamba,Worlds of Fun,"Kansas City, Mo.",1998,Morgan,79,2010,Steel
+893,3,Superman The Ride,Six Flags New England,"Agawam, Mass.",2000,Intamin,698,2016,Steel
+894,14,Goliath,Six Flags Great America,"Gurnee, Ill.",2014,Rocky Mountain,269,2015,Wood
+895,5,Apollo’s Chariot,Busch Gardens Williamsburg,"Williamsburg, Va.",1999,B & M,542,2013,Steel
+896,41,Manta,SeaWorld Orlando,"Orlando, Fla.",2009,B&M,87,2014,Steel
+897,1,El Toro,Six Flags Great Adventure,"Jackson, N.J.",2009,Intamin,1241,2017,Wood
+898,9,Nemesis,Alton Towers,"Staffordshire, England",1994,B&M,462,2015,Steel
+899,50,Katun,Mirabilandia,"Savio, Italy",2000,B & M,41,2010,Steel
